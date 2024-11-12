@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **Shan11111111/Shan11111111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -35,6 +35,14 @@ Here are some ideas to get you started:
 
 <hr>
 <h4>作品集</h4>
+<ul>
+  <li>產業實習平台</li>
+  <ul>
+    <li>PHP後端連結前端</li>
+    <li>HTML5+CSS+JavaScript美化版面</li>
+  </ul>
+  
+</ul>
 
 
 
