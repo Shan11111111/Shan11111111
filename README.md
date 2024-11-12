@@ -55,6 +55,7 @@ Here are some ideas to get you started:
   <li>大一上書卷獎</li>
   <li>2024第三屆善科科技文藝獎[會外賽]參與</li>
   <li>第五屆台日學生原創插畫漫畫大賽參與證明</li>
+  <li>輔仁大學教育部偏鄉教育學伴計劃(程式設計)</li>
 </ul>
 
 
