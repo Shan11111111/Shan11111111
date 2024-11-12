@@ -33,16 +33,7 @@ Here are some ideas to get you started:
   <li>文書處理能力:Word, Excel, PowerPoint, Canva</li>
 </ul>
 
-<hr>
-<h4>作品集</h4>
-<ul>
-  <li><a href="web後端期中作業(412402141陳怡珊+412402165陳相叡).zip">產業實習平台</a><img src="圖01.png"></li>
-  <ul>
-    <li>PHP後端連結前端</li>
-    <li>HTML5+CSS+JavaScript美化版面</li>
-  </ul>
-  
-</ul>
+
 
 <hr>
 <h4>自傳</h4>
@@ -80,7 +71,16 @@ Here are some ideas to get you started:
   <li>輔仁大學教育部偏鄉教育學伴計劃(程式設計)</li>
 </ul>
 
-
+<hr>
+<h4>作品集</h4>
+<ul>
+  <li><a href="web後端期中作業(412402141陳怡珊+412402165陳相叡).zip">產業實習平台</a><img src="圖01.png"></li>
+  <ul>
+    <li>PHP後端連結前端</li>
+    <li>HTML5+CSS+JavaScript美化版面</li>
+  </ul>
+  
+</ul>
 
 
 
