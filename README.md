@@ -68,19 +68,45 @@ Here are some ideas to get you started:
   <li>大一上書卷獎</li>
   <li>2024第三屆善科科技文藝獎[會外賽]參與</li>
   <li>第五屆台日學生原創插畫漫畫大賽參與證明</li>
-  <li>輔仁大學教育部偏鄉教育學伴計劃(程式設計)</li>
+  <li>輔仁大學教育部偏鄉教育學伴計劃(程式設計) 優良大學伴獎狀</li>
+  <li>Github數位履歷徵件活動 佳作</li>
 </ul>
 
 <hr>
 <h4>作品集</h4>
 <ul>
   <li><a href="web後端期中作業(412402141陳怡珊+412402165陳相叡).zip">產業實習平台</a><img src="圖01.png"></li>
+</ul>
+</ul>
+<ul>
   <ul>
     <li>PHP後端連結前端</li>
-    <li>HTML5+CSS+JavaScript美化版面</li>
-  </ul>
-  
+    <ul>
+      <li>session授權</li>
+      <li>教師方的企業與職缺CRUD</li>
+      <li>管理方的問題回報RD</li>
+    </ul>
+    <li>HTML5+CSS+JavaScript+Bootstrape template樣板置入與美化版面</li>
+    <ul>
+      <li>Bootstape icon置入</li>
+      <li>未登入前的所有版面</li>
+      <li>問題回報表單設計</li>
+      <li>學生版</li>
+      <ol>
+      <li>企業列表</li>
+      <li>資料上傳設計</li>
+      <li>訂閱版面設計</li>
+      </ol>
+      <li>教師版</li>
+      <ol><li>職缺表單設計</li>
+      <li>企業表單設計</li>
+      <li>訂閱版面設計</li>
+      </ol>
+    </ul>
+  </ul> 
 </ul>
+
+
 
 
 
