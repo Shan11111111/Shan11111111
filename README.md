@@ -31,13 +31,14 @@ Here are some ideas to get you started:
   <li>網頁後端設計能力:PHP, MySQL</li>
   <li>電腦繪圖軟體能力:PhotoShop, Photopea, Clip Studio Paint, Medibang, Krita, Adobe  illustrator 2022, Fresco</li>
   <li>文書處理能力:Word, Excel, PowerPoint, Canva</li>
+  <li>AI應用能力：ChatGPT, Figma, GalioAI</li>
 </ul>
 
 
 
 <hr>
 <h4>自傳</h4>
-<span>你們好! 我是來自輔仁大學資訊管理學系的陳怡珊，我的興趣除了寫程式以外，還有電腦繪畫，目前自學精進畫技中，並打算之後實作自己的個人接案網站。在課程修習方面，我除了修習資管系的必修，例如:
+<span>你們好! 我是來自輔仁大學資訊管理學系的陳怡珊，在學校學習Python, C, Java外，我目前自學C++及Unity的書籍，並計劃未來再學習C#，我的興趣除了寫程式以外，還有電腦繪畫，目前自學精進畫技中，並打算之後實作自己的個人接案網站。在課程修習方面，我除了修習資管系的必修，例如:
   web前端設計、web程式設計、Python課程、Java課程、資料庫管理，我也有參與資工系的課程，例如:離散數學。大學期間，我接受了很完整的資訊科技與開發的課程，資訊相關修課紀錄:</span>
   <ul>
     <li>Web程式設計</li>
