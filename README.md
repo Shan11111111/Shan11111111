@@ -77,32 +77,46 @@ Here are some ideas to get you started:
 <h4>作品集</h4>
 <ul>
   <li><a href="產業實習平台(php,mysql,htm).7z">產業實習平台</a><img src="圖01.png"></li>
+  <p>該平台是我就讀資管系大二時，與一位同學同組同心製作的資訊系統，我們使用PHP,mySQL,HTML,xampp來製作這份作業，功能主要圍繞新增、修改、刪除、查詢。</p>
 </ul>
 
 <ul>
   <ul>
-    <li>PHP後端連結前端</li>
+    <li>我負責的後端部分:</li>
     <ul>
-      <li>session授權</li>
-      <li>教師方的企業與職缺CRUD</li>
-      <li>管理方的問題回報RD</li>
+      <li>session權限存取</li>
+      <li>test資料庫建置</li>
+      <li>教師版面的企業CRUD</li>
+      <li>教師版面的職缺CRUD</li>
+      <li>教師的統計圖表查看</li>
+      <li>管理者的問題回報RD</li>
+      <li>管理者的統計圖表查看</li>
     </ul>
-    <li>HTML5+CSS+JavaScript+Bootstrape template樣板置入與美化版面</li>
+    <li>我負責的前端部分(HTML5+CSS+JavaScript+Bootstrape template樣板置入與美化版面):</li>
     <ul>
       <li>Bootstape icon置入</li>
-      <li>未登入前的所有版面</li>
-      <li>問題回報表單設計</li>
-      <li>學生版</li>
+      <li>未登入前的所有版面設計:首頁、設立理念、企業列表、聯絡我們、頁尾</li>
+      <li>登入後學生版面:</li>
       <ol>
-      <li>企業列表</li>
-      <li>資料上傳設計</li>
+      <li>企業資訊列表</li>
+      <li>實習資料上傳設計</li>
+      <li>申請書上傳設計</li>
       <li>訂閱版面設計</li>
       </ol>
-      <li>教師版</li>
-      <ol><li>職缺表單設計</li>
+      <li>登入後教師版面:</li>
+      <ol>
+      <li>職缺表單設計</li>
       <li>企業表單設計</li>
-      <li>訂閱版面設計</li>
+      <li>訂閱標籤版面設計</li>
       </ol>
+      <li>登入後管理者版面:</li>
+      <ol>
+      <li>問題回報設計</li>
+      <li>統計圖表設計</li>
+      </ol>
+    </ul>
+    <ul>多媒體動畫繪圖製作:
+      <li>轉場小動畫:toothless animation</li>
     </ul>
   </ul> 
 </ul>
