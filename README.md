@@ -47,7 +47,7 @@ Here are some ideas to get you started:
     <li>程式設計概論 A+</li>
     <li>進階程式設計 A</li>
     <li>資料庫管理</li>
-    <li>離散數學</li>
+    <li>離散數學 A+</li>
   </ul>
   <span>經由這些課程，讓我擁有:</span>
   <ul>
