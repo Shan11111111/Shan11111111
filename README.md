@@ -114,11 +114,11 @@ Here are some ideas to get you started:
       <li>問題回報設計</li>
       <li>統計圖表設計</li>
       </ol>
-    </ul>
-    <ul>多媒體動畫繪圖製作:
+    </ul> 
+  </ul>
+  <ul>多媒體動畫繪圖製作:
       <li>轉場小動畫:toothless animation</li>
     </ul>
-  </ul> 
 </ul>
 
 
