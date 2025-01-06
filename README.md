@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 <hr>
 <h4>作品集</h4>
 <ul>
-  <li><a href="產業實習平台(php,mysql,htm).7z">產業實習平台</a><img src="圖01.png"></li>
+  <li><a href="產業實習平台(php,mysql,htm).7z">產業實習平台(Web程式設計課程作業)</a><img src="圖01.png"></li>
   <p>該平台是我就讀資管系大二時，與一位同學同組同心製作的資訊系統，我們使用PHP,mySQL,HTML,xampp來製作這份作業，功能主要圍繞新增、修改、刪除、查詢。</p>
 </ul>
 
