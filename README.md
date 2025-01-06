@@ -24,14 +24,15 @@ Here are some ideas to get you started:
 </ul>
 
 <hr>
-<h4>專業技能</h4>
+<h4>技能</h4>
 <ul>
   <li>程式語言開發能力:Python, C, Java</li>
   <li>網頁前端設計能力:HTML5, CSS, JavaScript</li>
   <li>網頁後端設計能力:PHP, MySQL</li>
-  <li>電腦繪圖軟體能力:PhotoShop, Photopea, Clip Studio Paint, Medibang, Krita, Adobe  illustrator 2022, Fresco</li>
+  <li>電腦繪圖軟體能力:PhotoShop, Photopea, Clip Studio Paint, Medibang, Krita, Adobe  illustrator 2022, Fresco, Procreate</li>
+  <li>動畫製作能力:Procreate Dreams</li>
   <li>文書處理能力:Word, Excel, PowerPoint, Canva</li>
-  <li>AI應用能力：ChatGPT, Figma, GalioAI</li>
+  <li>AI應用能力：ChatGPT, Figma, Galio AI, Sora</li>
 </ul>
 
 
@@ -121,7 +122,8 @@ Here are some ideas to get you started:
   <ul>
     <li>多媒體動畫繪圖製作:</li>
     <ul>
-      <li>轉場小動畫:toothless animation</li>
+      <li>等待小動畫:toothless animation</li>
+      <p>利用Clip Studio Paint Pro製作的小動畫</p>
     <ul>
   </ul>
 </ul>
