@@ -71,6 +71,7 @@ Here are some ideas to get you started:
   <li>第五屆台日學生原創插畫漫畫大賽參與證明</li>
   <li>輔仁大學教育部偏鄉教育學伴計劃(程式設計) 優良大學伴獎狀</li>
   <li>Github數位履歷徵件活動 佳作</li>
+  <li>2025生成式AI網頁設計試辦賽</li>
 </ul>
 
 <hr>
