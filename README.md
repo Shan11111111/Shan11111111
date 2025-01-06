@@ -76,9 +76,9 @@ Here are some ideas to get you started:
 <hr>
 <h4>作品集</h4>
 <ul>
-  <li><a href="web後端期中作業(412402141陳怡珊+412402165陳相叡).zip">產業實習平台</a><img src="圖01.png"></li>
+  <li><a href="產業實習平台(php,mysql,htm).7z">產業實習平台</a><img src="圖01.png"></li>
 </ul>
-</ul>
+
 <ul>
   <ul>
     <li>PHP後端連結前端</li>
