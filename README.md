@@ -42,13 +42,34 @@ Here are some ideas to get you started:
 <span>你們好! 我是來自輔仁大學資訊管理學系的陳怡珊，在學校學習Python, C, Java外，我目前自學C++及Unity的書籍，並計劃未來再學習C#，我的興趣除了寫程式以外，還有電腦繪畫，目前自學精進畫技中，並打算之後實作自己的個人接案網站。在課程修習方面，我除了修習資管系的必修，例如:
   web前端設計、web程式設計、Python課程、Java課程、資料庫管理，我也有參與資工系的課程，例如:離散數學。大學期間，我接受了很完整的資訊科技與開發的課程，資訊相關修課紀錄:</span>
   <ul>
-    <li>Web程式設計</li>
+    <ul><li>資訊相關修課</li>
+      <ul>
+    <li>Web程式設計 A+</li>
     <li>Web前端設計 A+</li>
     <li>C語言</li>
     <li>程式設計概論 A+</li>
-    <li>進階程式設計 A</li>
-    <li>資料庫管理</li>
+    <li>進階程式設計 A-</li>
+    <li>資料庫管理 A+</li>
     <li>離散數學 A+</li>
+    <li>資訊管理導論 A+</li>
+      </ul>
+      <li>數學課程</li>
+      <ul>
+        <li>微積分(上 A+/下 A+)</li>
+      </ul>
+      <li>管理課程</li>
+      <ul>
+        <li>企業管理概論 A+</li>
+        <li>生產與作業管理</li>
+        <li>會計學(上 A+/下 A)</li>
+        <li>統計學(上/下)</li>
+        <li>經濟學(上/下)</li>
+      </ul>
+      <li>其他課程</li>
+      <ul>
+        <li>施工圖與工程管理 A+</li>
+      </ul>
+    </ul>
   </ul>
   <span>經由這些課程，讓我擁有:</span>
   <ul>
@@ -59,6 +80,7 @@ Here are some ideas to get you started:
     <li>熟悉Java語法</li>
     <li>熟悉MySQL資料庫語法</li>
     <li>了解電腦運作的基礎邏輯原理</li>
+    <li>熟悉企業運作與生產流程</li>
   </ul>
 <span>上述便是我擁有的能力，請貴公司給予我機會，讓我能為公司出一份力!</span>
 
