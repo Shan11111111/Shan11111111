@@ -53,6 +53,7 @@ Here are some ideas to get you started:
       <li>資料庫管理 A+</li>
       <li>離散數學 A+</li>
       <li>資訊管理導論 A+</li>
+      <li>創新與設計思考</li>
       </ul>
       <li>數學課程</li>
       <ul>
@@ -156,6 +157,16 @@ Here are some ideas to get you started:
       <p>利用Clip Studio Paint Pro製作的小動畫</p>
     <ul>
   </ul>
+  <li><a href="https://fjuedu-my.sharepoint.com/:v:/g/personal/412402141_m365_fju_edu_tw/EWKVJAHxJy5DolX-hUdaLcQB733R8vNktbI-CLI8vo-PZg?e=xidQqe&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">題庫資料庫建置影片(資料庫管理)</a></li>
+      <p>資料庫管理這門課教MySQL，我利用自主學習周學習postgreSQL建置資料庫，題目是存放題庫為主的資料庫，會選擇題庫做為題目是因為我覺得線上題庫的系統使用起來蠻不友善，題目如果可以依難易度分類，並且能夠有回饋制度的話，我覺得願意分享給題目的人會越來越多，基於這個理念做出來這份個人作業。</p>
+
+  <li><a href="https://www.figma.com/proto/tNEnqHL50XemTEUaU6k3sw/ui%2Fux?node-id=246-3754&starting-point-node-id=246%3A3754&t=IVt0sHTeufGB4eUP-1">二手物平台介面設計(創新與設計思考)</li>
+    <p>這是一組五人利用Figma設計手機介面並兼具SDGs的第十二項目標責任消費理念的團隊課堂作業，我負責:</p>
+    <ul>
+      <li>登入登出及註冊的介面設計</li>
+      <li>通知設定的藍點及白點轉換介面設計</li>
+      <li>管理者審核貼文之相關介面</li>
+    </ul>
 </ul>
 
 
