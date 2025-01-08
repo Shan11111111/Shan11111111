@@ -163,12 +163,14 @@ Here are some ideas to get you started:
   
 <ul>
   <li><a href="https://fjuedu-my.sharepoint.com/:v:/g/personal/412402141_m365_fju_edu_tw/EWKVJAHxJy5DolX-hUdaLcQB733R8vNktbI-CLI8vo-PZg?e=xidQqe&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">題庫資料庫建置影片(資料庫管理)</a></li>
+  <img src="red.png">
       <p>資料庫管理這門課教MySQL，我利用自主學習周學習postgreSQL建置資料庫，題目是存放題庫為主的資料庫，會選擇題庫做為題目是源於我使用線上題庫的系統寫題目時有時候會想有一些寫題目獎勵或是出題獎勵，如果題目可以依難易度分類，並且能夠有回饋制度的話，我覺得願意分享給題目的人會越來越多，基於這個理念做出來這份個人作業。</p>
       <ul>
         <li>包含六個資料表、商業規則，及三種關係:一對一、一對多、多對多</li>
       </ul>
 
   <li><a href="https://www.figma.com/proto/tNEnqHL50XemTEUaU6k3sw/ui%2Fux?node-id=246-3754&starting-point-node-id=246%3A3754&t=IVt0sHTeufGB4eUP-1">二手物平台介面設計(創新與設計思考)</li>
+    <img src="Figma畫面.png">
     <p>這是一組五人利用Figma設計手機介面並兼具SDGs的第十二項目標責任消費理念的團隊課堂作業，我負責:</p>
     <ul>
       <li>登入登出及註冊的介面設計</li>
