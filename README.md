@@ -42,16 +42,17 @@ Here are some ideas to get you started:
 <span>你們好! 我是來自輔仁大學資訊管理學系的陳怡珊，在學校學習Python, C, Java外，我目前自學C++及Unity的書籍，並計劃未來再學習C#，我的興趣除了寫程式以外，還有電腦繪畫，目前自學精進畫技中，並打算之後實作自己的個人接案網站。在課程修習方面，我除了修習資管系的必修，例如:
   web前端設計、web程式設計、Python課程、Java課程、資料庫管理，我也有參與資工系的課程，例如:離散數學。大學期間，我接受了很完整的資訊科技與開發的課程，資訊相關修課紀錄:</span>
   <ul>
-    <ul><li>資訊相關修課</li>
+    <ul>
+      <li>資訊相關修課</li>
       <ul>
-    <li>Web程式設計 A+</li>
-    <li>Web前端設計 A+</li>
-    <li>C語言</li>
-    <li>程式設計概論 A+</li>
-    <li>進階程式設計 A-</li>
-    <li>資料庫管理 A+</li>
-    <li>離散數學 A+</li>
-    <li>資訊管理導論 A+</li>
+      <li>Web程式設計 A+</li>
+      <li>Web前端設計 A+</li>
+      <li>C語言</li>
+      <li>程式設計概論 A+</li>
+      <li>進階程式設計 A-</li>
+      <li>資料庫管理 A+</li>
+      <li>離散數學 A+</li>
+      <li>資訊管理導論 A+</li>
       </ul>
       <li>數學課程</li>
       <ul>
@@ -94,6 +95,7 @@ Here are some ideas to get you started:
   <li>第五屆台日學生原創插畫漫畫大賽參與證明</li>
   <li>輔仁大學教育部偏鄉教育學伴計劃(程式設計) 優良大學伴獎狀</li>
   <li>Github數位履歷徵件活動 佳作</li>
+  <li><a href='2024ESG與循環經濟研討會參加證明'>2024 ESG與循環經濟研討會參加證明</a></li>
   <li>2025生成式AI網頁設計試辦賽</li>
 </ul>
 
