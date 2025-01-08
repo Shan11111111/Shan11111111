@@ -155,10 +155,11 @@ Here are some ideas to get you started:
     <ul>
       <li>等待小動畫:toothless animation</li>
       <p>利用Clip Studio Paint Pro製作的小動畫</p>
-    <ul>
+    
   </ul>
 </ul>
-  </ul>
+</ul>
+</ul>
   
 <ul>
   <li><a href="https://fjuedu-my.sharepoint.com/:v:/g/personal/412402141_m365_fju_edu_tw/EWKVJAHxJy5DolX-hUdaLcQB733R8vNktbI-CLI8vo-PZg?e=xidQqe&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">題庫資料庫建置影片(資料庫管理)</a></li>
