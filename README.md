@@ -46,30 +46,54 @@ Here are some ideas to get you started:
       <li>資訊相關修課</li>
       <ul>
       <li>Web程式設計 A+</li>
-      <li>Web前端設計 A+</li>
+        <ul>
+          <li>PHP</li>
+        </ul>
+      <li>Web前端設計A+</li>
+        <ul>
+          <li>HTML</li>
+          <li>CSS</li>
+          <li>JavaScript</li>
+          <li>Bootstrap 5</li>
+        </ul>
       <li>C語言</li>
       <li>程式設計概論 A+</li>
+        <ul>
+          <li>Python</li>
+        </ul>
       <li>進階程式設計 A-</li>
+        <ul>
+          <li>Python</li>
+          <li>Java</li>
+        </ul>
       <li>資料庫管理 A+</li>
-      <li>離散數學 A+</li>
+        <ul>
+          <li>MySQL</li>
+        </ul>
       <li>資訊管理導論 A+</li>
       <li>創新與設計思考</li>
+        <ul>
+          <li>Figma</li>
+          <li>Galio AI</li>
+        </ul>
       </ul>
       <li>數學課程</li>
       <ul>
         <li>微積分(上 A+/下 A+)</li>
+        <li>離散數學(一)(資工系) A+</li>
+        <li>離散數學(二)(資工系)</li>
       </ul>
       <li>管理課程</li>
       <ul>
         <li>企業管理概論 A+</li>
         <li>生產與作業管理</li>
         <li>會計學(上 A+/下 A)</li>
-        <li>統計學(上/下)</li>
+        <li>統計學(上 A+/下)</li>
         <li>經濟學(上/下)</li>
       </ul>
       <li>其他課程</li>
       <ul>
-        <li>施工圖與工程管理 A+</li>
+        <li>施工圖與工程管理(應美系) A+</li>
       </ul>
     </ul>
   </ul>
