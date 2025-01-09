@@ -120,7 +120,7 @@ Here are some ideas to get you started:
     <ul>
       <li><a href="【電繪大專】陳怡珊.png">參賽作品</a></li>
     </ul>
-  <li>2024第五屆台日學生原創插畫漫畫大賽參與證明_參賽作品</li>
+  <li><a href="台日漫畫比賽參與證明_陳怡珊.pdf">2024第五屆台日學生原創插畫漫畫大賽參與證明</a></li>
     <ul>
       <li><a href="插畫組-輔仁大學-陳怡珊-許願.png">作品一</a></li>
       <li><a href="插畫組-輔仁大學-陳怡珊-夜晚的守護者.png">作品二</a></li>
