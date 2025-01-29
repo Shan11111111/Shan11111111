@@ -32,14 +32,14 @@ Here are some ideas to get you started:
   <li>電腦繪圖軟體能力:PhotoShop, Photopea, Clip Studio Paint, Medibang, Krita, Adobe  illustrator 2022, Fresco, Procreate</li>
   <li>動畫製作能力:Clip Studio Paint Pro, Procreate Dreams</li>
   <li>文書處理能力:Word, Excel, PowerPoint, Canva</li>
-  <li>AI應用能力：ChatGPT, Figma, Galio AI, Sora</li>
+  <li>AI應用能力：ChatGPT, Figma, Galio AI</li>
 </ul>
 
 
 
 <hr>
 <h4>自傳</h4>
-<span>你們好! 我是來自輔仁大學資訊管理學系的陳怡珊，在學校學習Python, C, Java外，我目前自學C++及Unity的書籍，並計劃未來再學習C#，我的興趣除了寫程式以外，還有電腦繪畫，目前自學精進畫技中，並打算之後實作自己的個人接案網站。在課程修習方面，我除了修習資管系的必修，例如:
+<span>你們好! 我是來自輔仁大學資訊管理學系的陳怡珊，大學學習Python, C, Java外，我目前自學C++及Unity的書籍，並計劃未來再學習C#。我的興趣除了寫程式以外，還有電腦繪畫，目前自學精進畫技中，並打算之後實作自己的個人接案網站。在課程修習方面，我除了修習資管系的必修，例如:
   web前端設計、web程式設計、Python課程、Java課程、資料庫管理，我也有參與資工系的課程，例如:離散數學。大學期間，我接受了很完整的資訊科技與開發的課程，資訊相關修課紀錄:</span>
   <ul>
     <ul>
@@ -113,29 +113,36 @@ Here are some ideas to get you started:
 
 
 <hr>
-<h4>個人經歷</h4>
+
+<h4>校內經歷</h4>
 <ul>
-  <li>大一上書卷獎</li>
-  <li><a href="2024第三屆善科科技文藝獎_會外賽_參賽證明_陳怡珊.pdf">2024第三屆善科科技文藝獎[會外賽]參與</li>
-    <ul>
-      <li><a href="【電繪大專】陳怡珊.png">參賽作品</a></li>
-    </ul>
-  <li><a href="台日漫畫比賽參與證明_陳怡珊.pdf">2024第五屆台日學生原創插畫漫畫大賽參與證明</a></li>
-    <ul>
-      <li><a href="插畫組-輔仁大學-陳怡珊-許願.png">作品一</a></li>
-      <li><a href="插畫組-輔仁大學-陳怡珊-夜晚的守護者.png">作品二</a></li>
-    </ul>
+  <li>大一上書卷獎</li>  
   <li><a href="茲證明輔仁大學學校財團法人輔仁大學陳怡珊同學，.pdf">2024輔仁大學教育部偏鄉教育學伴計劃(程式設計) 優良大學伴獎狀</a></li>
-  <li><a href='2024ESG與循環經濟研討會參加證明.pdf'>2024 ESG與循環經濟研討會參加證明</a></li>
+  <li><a href='2024ESG與循環經濟研討會參加證明.pdf'>2024 ESG與循環經濟研討會 參加證明</a></li>  
   <li><a href="113-1 web程式設計課程第三名.pdf">web程式設計課程 第三名</a></li>
-  <li>2025生成式AI網頁設計試辦賽參與</li>
 </ul>
 
+<hr>
+
+<h4>校外經歷</h4>
+    <ul>
+      <li><a href="2024第三屆善科科技文藝獎_會外賽_參賽證明_陳怡珊.pdf">2024第三屆善科科技文藝獎[會外賽]參與</li>
+      <ul>
+        <li><a href="【電繪大專】陳怡珊.png">參賽作品</a></li>
+      </ul>
+    <li><a href="台日漫畫比賽參與證明_陳怡珊.pdf">2024第五屆台日學生原創插畫漫畫大賽參與證明</a></li>
+      <ul>
+        <li><a href="插畫組-輔仁大學-陳怡珊-許願.png">作品一</a></li>
+        <li><a href="插畫組-輔仁大學-陳怡珊-夜晚的守護者.png">作品二</a></li>
+      </ul>
+    <li><p>參與"連結台灣專題講座:AIOT與智慧養殖"線上會議</p></li>
+    <li><p>2025生成式AI網頁設計試辦賽參與</p></li>   
+    </ul>
 <hr>
 <h4>作品集</h4>
 <ul>
   <li><a href="產業實習平台(php,mysql,htm).7z">產業實習平台(Web程式設計課程作業)</a><img src="圖01.png"></li>
-  <p>該平台是我就讀資管系大二時，與一位同學同組同心製作的資訊系統，我們使用PHP,mySQL,HTML,xampp來製作這份作業，功能主要圍繞新增、修改、刪除、查詢。</p>
+  <p>該平台是我就讀資管系大二時，與一位同學同組同心製作的資訊系統，我們使用PHP,mySQL,HTML,Xampp來製作這份作業，功能主要圍繞新增、修改、刪除、查詢。</p>
 </ul>
 
 <ul>
@@ -176,7 +183,7 @@ Here are some ideas to get you started:
   </ul>
   
   <ul>
-    <li>多媒體動畫繪圖製作:</li>
+    <li>多媒體動畫與繪圖製作:</li>
     <ul>
       <li>等待小動畫:toothless animation</li>
       <p>利用Clip Studio Paint Pro製作的小動畫</p>
