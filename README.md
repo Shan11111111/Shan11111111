@@ -49,7 +49,7 @@ Here are some ideas to get you started:
         <ul>
           <li>PHP</li>
         </ul>
-      <li>Web前端設計A+</li>
+      <li>Web前端設計 A+</li>
         <ul>
           <li>HTML</li>
           <li>CSS</li>
@@ -71,7 +71,7 @@ Here are some ideas to get you started:
           <li>MySQL</li>
         </ul>
       <li>資訊管理導論 A+</li>
-      <li>創新與設計思考</li>
+      <li>創新與設計思考 A+</li>
         <ul>
           <li>Figma</li>
           <li>Galio AI</li>
@@ -86,7 +86,7 @@ Here are some ideas to get you started:
       <li>管理課程</li>
       <ul>
         <li>企業管理概論 A+</li>
-        <li>生產與作業管理</li>
+        <li>生產與作業管理 A</li>
         <li>會計學(上 A+/下 A)</li>
         <li>統計學(上 A+/下)</li>
         <li>經濟學(上/下)</li>
