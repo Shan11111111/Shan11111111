@@ -89,7 +89,7 @@ Here are some ideas to get you started:
         <li>生產與作業管理 A</li>
         <li>會計學(上 A+/下 A)</li>
         <li>統計學(上 A+/下)</li>
-        <li>經濟學(上/下)</li>
+        <li>經濟學(上 A+/下)</li>
       </ul>
       <li>其他課程</li>
       <ul>
