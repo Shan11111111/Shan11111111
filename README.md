@@ -142,9 +142,17 @@ Here are some ideas to get you started:
 <hr>
 <h4>作品集</h4>
 <ul>
+  <li><a href="web前端期末作業">儀器預約系統(web前端課程作業)</a></li>
+  <p>我與兩位同學於大一下學期設計的資訊系統前端介面，我們使用HTML, CSS, Bootstrape, Github, JavaScript，模擬預約網站的介面，分工是每個人負責兩個導覽列的選項。</p>
+  <p>我負責預約和繳費這兩個選項:</p>
+  <ul>
+    <li>預約介面及其下拉式選單:預約儀器、目前預約儀器之介面設計</li>
+    <li>繳費介面及其下拉式選單:繳費情況、我要繳費之介面設計</li>
+  </ul>
+  
   <li><a href="產業實習平台(php,mysql,htm).7z">產業實習平台(Web程式設計課程作業)</a><img src="圖01.png"></li>
-  <p>該平台是我就讀資管系大二時，與一位同學同組同心製作的資訊系統，我們使用PHP,mySQL,HTML,Xampp來製作這份作業，功能主要圍繞新增、修改、刪除、查詢。</p>
-</ul>
+  <p>我與一位同學於大二上學期一起設計的資訊系統，我們使用PHP, mySQL, HTML, Xampp, Github, Bootstrape, JavaScript，功能主要圍繞新增、修改、刪除、查詢。</p>
+
 
 <ul>
   <ul>
