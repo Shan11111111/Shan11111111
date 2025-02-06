@@ -119,7 +119,7 @@ Here are some ideas to get you started:
   <li>大一上書卷獎</li>  
   <li><a href="茲證明輔仁大學學校財團法人輔仁大學陳怡珊同學，.pdf">2024輔仁大學教育部偏鄉教育學伴計劃(程式設計) 優良大學伴獎狀</a></li>
   <li><a href='2024ESG與循環經濟研討會參加證明.pdf'>2024 ESG與循環經濟研討會 參加證明</a></li>  
-  <li><a href="113-1 web程式設計課程第三名.pdf">web程式設計課程 第三名</a></li>
+  <li><a href="">web程式設計課程 第三名</a></li>
 </ul>
 
 <hr>
