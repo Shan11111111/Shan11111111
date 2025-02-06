@@ -157,6 +157,7 @@ Here are some ideas to get you started:
       <li>管理者的問題回報RD</li>
       <li>管理者的統計圖表查看</li>
     </ul>
+    <br>
     <li>我負責的前端部分(HTML5+CSS+JavaScript+Bootstrape template樣板置入與美化版面):</li>
     <ul>
       <li>Bootstape icon置入</li>
