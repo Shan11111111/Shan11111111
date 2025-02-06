@@ -56,7 +56,7 @@ Here are some ideas to get you started:
           <li>JavaScript</li>
           <li>Bootstrap 5</li>
         </ul>
-      <li>C語言</li>
+      <li>C語言 A+</li>
       <li>程式設計概論 A+</li>
         <ul>
           <li>Python</li>
