@@ -182,7 +182,7 @@ Here are some ideas to get you started:
       </ol>
     </ul> 
   </ul>
-  
+  <br>
   <ul>
     <li>多媒體動畫與繪圖製作:</li>
     <ul>
@@ -193,7 +193,7 @@ Here are some ideas to get you started:
 </ul>
 </ul>
 </ul>
-  
+  <br>
 <ul>
   <li><a href="https://fjuedu-my.sharepoint.com/:v:/g/personal/412402141_m365_fju_edu_tw/EWKVJAHxJy5DolX-hUdaLcQB733R8vNktbI-CLI8vo-PZg?e=xidQqe&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">題庫資料庫建置影片(資料庫管理)</a></li>
   <img src="erd.png">
@@ -202,7 +202,7 @@ Here are some ideas to get you started:
         <li>包含六個資料表、商業規則，及三種關係:一對一、一對多、多對多</li>
         <li>設計十種查詢</li>
       </ul>
-
+<br>
   <li><a href="https://www.figma.com/proto/tNEnqHL50XemTEUaU6k3sw/ui%2Fux?node-id=246-3754&starting-point-node-id=246%3A3754&t=IVt0sHTeufGB4eUP-1">二手物平台介面設計(創新與設計思考)</li>
     <img src="Figma畫面.png">
     <p>這是一組五人利用Figma設計手機介面並兼具SDGs的第十二項目標責任消費理念的團隊課堂作業，我負責:</p>
@@ -211,7 +211,7 @@ Here are some ideas to get you started:
       <li>通知設定的藍點及白點轉換介面設計</li>
       <li>管理者審核貼文之相關介面</li>
     </ul>
-
+<br>
   <li><a href="吃點點遊戲.7z">吃點點遊戲</a></li>
   <p><b>個人獨立研發的小遊戲採用unity 2D開發，以下是遊玩介紹:</b></p>
   <p>解壓縮完後，點擊資料夾中的eat_dot來玩這款吃點點小遊戲吧! 透過左鍵及右鍵控制角色(球)左右移動、空白鍵跳躍，來吃紅色的點點，在三十秒內若角色吃到5個點點則獲勝，反之，則遊戲結束 ; 若想要在玩一次請點選restart鍵，暫停請按stop鍵，再按一次stop鍵則代表取消暫停，繼續開始遊戲，祝您有美好的遊戲體驗~</p>
