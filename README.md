@@ -23,6 +23,9 @@ Here are some ideas to get you started:
   <li>電話號碼:0909-165-648</li>
 </ul>
 
+<audio controls>
+  <source src="Echoes Rise(女聲).m4a" type="audio/m4a">
+</audio>
 <hr>
 <h4>技能</h4>
 <ul>
@@ -32,7 +35,7 @@ Here are some ideas to get you started:
   <li>電腦繪圖軟體能力:PhotoShop, Photopea, Clip Studio Paint, Medibang, Krita, Adobe  illustrator 2022, Fresco, Procreate</li>
   <li>動畫製作能力:Clip Studio Paint Pro, Procreate Dreams</li>
   <li>文書處理能力:Word, Excel, PowerPoint, Canva</li>
-  <li>AI應用能力：ChatGPT, Figma, Galio AI</li>
+  <li>AI應用能力：ChatGPT, Figma, Galio AI, Riffution</li>
 </ul>
 
 
