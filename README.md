@@ -76,6 +76,9 @@ Here are some ideas to get you started:
           <li>Figma</li>
           <li>Galio AI</li>
         </ul>
+      <li>系統設計與開發</li>
+      <li>資料通訊與網路</li>
+      <li>資料結構</li>
       </ul>
       <li>數學課程</li>
       <ul>
@@ -94,6 +97,7 @@ Here are some ideas to get you started:
       <li>其他課程</li>
       <ul>
         <li>施工圖與工程管理(應美系) A+</li>
+        <li>數位遊戲製作(應美系)</li>
       </ul>
     </ul>
   </ul>
@@ -108,6 +112,7 @@ Here are some ideas to get you started:
     <li>了解電腦運作的基礎邏輯原理</li>
     <li>熟悉企業運作與生產流程</li>
     <li>程式Debug的能力</li>
+    <li>熟悉Unity與C#的程式應用</li>
   </ul>
 <span>上述便是我擁有的能力，請貴公司給予我機會，讓我能為公司出一份力!</span>
 
@@ -131,14 +136,14 @@ Here are some ideas to get you started:
       <ul>
         <li><a href="【電繪大專】陳怡珊.png">參賽作品</a></li>
       </ul>
-    <li><a href="台日漫畫比賽參與證明_陳怡珊.pdf">2024第五屆台日學生原創插畫漫畫大賽參與證明</a></li>
+    <li><a href="台日漫畫比賽參與證明_陳怡珊.pdf">2024第五屆台日學生原創插畫漫畫大賽 參與證明</a></li>
       <ul>
         <li><a href="插畫組-輔仁大學-陳怡珊-許願.png">作品一</a></li>
         <li><a href="插畫組-輔仁大學-陳怡珊-夜晚的守護者.png">作品二</a></li>
       </ul>
-    <li><a href="AIOT智慧養殖線上專題講座.jpg">參與證明:"連結台灣專題講座:AIOT與智慧養殖"線上會議</a></li>
-    <li><p>2025生成式AI網頁設計試辦賽參與</p></li>
-        <img src="2025生成式AI競賽晉級證明.png">
+    <li><a href="AIOT智慧養殖線上專題講座.jpg">"連結台灣專題講座:AIOT與智慧養殖"線上會議 參與證明</a></li>
+    <li><a href="2025生成式ai應用網頁設計競賽晉級決賽證明.pdf">2025生成式AI網頁設計試辦賽 決賽晉級證明</a></li>
+    <li>2025創新智慧大賞參與</li>
     </ul>
 <hr>
 <h4>作品集</h4>
@@ -230,6 +235,9 @@ Here are some ideas to get you started:
   <p><b>個人獨立研發的小遊戲採用unity 2D開發，以下是遊玩介紹:</b></p>
   <p>解壓縮完後，點擊資料夾中的eat_dot來玩這款吃點點小遊戲吧! 透過左鍵及右鍵控制角色(球)左右移動、空白鍵跳躍，來吃紅色的點點，在三十秒內若角色吃到5個點點則獲勝，反之，則遊戲結束 ; 若想要在玩一次請點選restart鍵，暫停請按stop鍵，再按一次stop鍵則代表取消暫停，繼續開始遊戲，祝您有美好的遊戲體驗~</p>
   </ul>
+<br>
+<li>孵仁養雞募資平台(系統設計與開發之作品)</li>
+<p>改良校內的愛校建言系統的系統開發</p>
 
 
 
