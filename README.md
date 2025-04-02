@@ -79,6 +79,7 @@ Here are some ideas to get you started:
       <li>系統設計與開發</li>
       <li>資料通訊與網路</li>
       <li>資料結構</li>
+      <li>智慧物聯網概論</li>
       </ul>
       <li>數學課程</li>
       <ul>
