@@ -23,8 +23,10 @@ Here are some ideas to get you started:
   <li>電話號碼:0909-165-648</li>
 </ul>
 
-<audio controls>
+<audio controls autoplay>
   <source src="Echoes Rise(女聲).m4a" type="audio/m4a">
+  <source src="Echoes Rise(女聲).m4a" type="audio/m4a">
+  <source src="Echoes Rise(女聲).m4a" type="audio/m4a">  
 </audio>
 <hr>
 <h4>技能</h4>
