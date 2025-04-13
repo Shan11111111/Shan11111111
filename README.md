@@ -148,7 +148,7 @@ Here are some ideas to get you started:
         <li><a href="插畫組-輔仁大學-陳怡珊-夜晚的守護者.png">作品二</a></li>
       </ul>
     <li><a href="AIOT智慧養殖線上專題講座.jpg">"連結台灣專題講座:AIOT與智慧養殖"線上會議 參與證明</a></li>
-    <li><a href="2025 ITSA 生成式ai應用網頁設計競賽晉級決賽證明.pdf">2025生成式AI網頁設計試辦賽 決賽晉級證明</a></li>
+    <li><a href="2025生成式ai應用網頁設計競賽晉級決賽證明.pdf">2025 ITSA 生成式AI網頁設計試辦賽 決賽晉級證明</a></li>
     <li>2025創新智慧大賞參與</li>
     </ul>
 <hr>
