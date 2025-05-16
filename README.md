@@ -262,8 +262,15 @@ Here are some ideas to get you started:
 <li>soap語音紀錄助手</li>
 <p>透過chatGPT金鑰，連結大語言模型，能夠記錄一段話並將內容切成soap格式存儲在資料庫裡。</p>
 <div>
- <iframe width="560" height="315" src="[https://www.youtube.com/XXXXX](https://youtu.be/P-S-ICTIxD8)" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+  <iframe width="560" height="315" 
+    src="[https://www.youtube.com/embed/P-S-ICTIxD8](https://youtu.be/P-S-ICTIxD8)" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
+  </iframe>
 </div>
+
     
 <li>孵仁養雞募資平台(系統設計與開發之作品)</li>
 <p>改良校內的愛校建言系統的系統開發</p>
