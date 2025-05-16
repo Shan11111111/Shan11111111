@@ -261,18 +261,6 @@ Here are some ideas to get you started:
 <br>
 <li>soap語音紀錄助手</li>
 <p>透過chatGPT金鑰，連結大語言模型，能夠記錄一段話並將內容切成soap格式存儲在資料庫裡。</p>
-
-<div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden; max-width:100%;">
-    <iframe 
-      src="https://www.youtube.com/embed/P-S-ICTIxD8" 
-      title="YouTube video player" 
-      style="position:absolute; top:0; left:0; width:100%; height:100%;" 
-      frameborder="0" 
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-      allowfullscreen>
-    </iframe>
-  </div>
-
     
 <li>孵仁養雞募資平台(系統設計與開發之作品)</li>
 <p>改良校內的愛校建言系統的系統開發</p>
@@ -280,6 +268,26 @@ Here are some ideas to get you started:
 
 
 <hr>
+
+<section id="project-video" style="margin: 2em 0; font-family: Arial, sans-serif;">
+  <h2 style="font-size: 1.5em; color: #333;">作品展示｜互動網頁設計</h2>
+  <p style="color: #555;">
+    這段影片展示我在前端互動設計上的作品，包含動畫效果與使用者操作體驗，使用 Three.js、HTML、CSS 技術實作：
+  </p>
+  <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+    <iframe 
+      src="https://www.youtube.com/embed/P-S-ICTIxD8" 
+      title="YouTube video player" 
+      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+      frameborder="0" 
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+      allowfullscreen>
+    </iframe>
+  </div>
+  <p style="margin-top: 0.5em;">
+    👉 <a href="https://youtu.be/P-S-ICTIxD8" target="_blank" style="color: #0066cc;">點我在 YouTube 開啟影片</a>
+  </p>
+</section>
 
 
 
