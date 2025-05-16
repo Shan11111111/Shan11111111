@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/a2a6bfb9-f7e4-4bf6-bb6b-6c2dc6415312)
 
 <!--
 **Shan11111111/Shan11111111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -263,7 +263,7 @@ Here are some ideas to get you started:
 <p>透過chatGPT金鑰，連結大語言模型，能夠記錄一段話並將內容切成soap格式存儲在資料庫裡。</p>
 <div>
   <iframe width="560" height="315" 
-    src="[https://www.youtube.com/embed/P-S-ICTIxD8](https://youtu.be/P-S-ICTIxD8)" 
+    src="https://youtu.be/P-S-ICTIxD8" 
     title="YouTube video player" 
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
@@ -274,7 +274,7 @@ Here are some ideas to get you started:
     
 <li>孵仁養雞募資平台(系統設計與開發之作品)</li>
 <p>改良校內的愛校建言系統的系統開發</p>
-![image](https://github.com/user-attachments/assets/a2a6bfb9-f7e4-4bf6-bb6b-6c2dc6415312)
+
 
 
 <hr>
