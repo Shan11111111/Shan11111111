@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/a2a6bfb9-f7e4-4bf6-bb6b-6c2dc6415312)
 
 <!--
 **Shan11111111/Shan11111111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -259,6 +259,12 @@ Here are some ideas to get you started:
   <p>解壓縮完後，點擊資料夾中的eat_dot來玩這款吃點點小遊戲吧! 透過左鍵及右鍵控制角色(球)左右移動、空白鍵跳躍，來吃紅色的點點，在三十秒內若角色吃到5個點點則獲勝，反之，則遊戲結束 ; 若想要在玩一次請點選restart鍵，暫停請按stop鍵，再按一次stop鍵則代表取消暫停，繼續開始遊戲，祝您有美好的遊戲體驗~</p>
   </ul>
 <br>
+<li>soap語音紀錄助手</li>
+<p>透過chatGPT金鑰，連結大語言模型，能夠記錄一段話並將內容切成soap格式存儲在資料庫裡。</p>
+<div>
+ <iframe width="560" height="315" src="[https://www.youtube.com/XXXXX](https://youtu.be/P-S-ICTIxD8)" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</div>
+    
 <li>孵仁養雞募資平台(系統設計與開發之作品)</li>
 <p>改良校內的愛校建言系統的系統開發</p>
 
