@@ -20,7 +20,8 @@ Here are some ideas to get you started:
   <li>就讀科系:輔仁大學/資訊管理學系</li>
   <li>位置:新北市</li>
   <li>e-mail:09shan2005@gmail.com</li>
-  <li>ig:@dra_sha_iii
+  <li>個人ig: @sssssssaaannnddra
+  <li>繪帳: @dra_sha_iii</li>
   <li>電話號碼:0909-165-648</li>
   <li>興趣：繪畫、寫程式、彈鋼琴</li>
 </ul>
