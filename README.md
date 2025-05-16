@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a2a6bfb9-f7e4-4bf6-bb6b-6c2dc6415312)
+
 
 <!--
 **Shan11111111/Shan11111111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -274,7 +274,7 @@ Here are some ideas to get you started:
     
 <li>孵仁養雞募資平台(系統設計與開發之作品)</li>
 <p>改良校內的愛校建言系統的系統開發</p>
-
+![image](https://github.com/user-attachments/assets/a2a6bfb9-f7e4-4bf6-bb6b-6c2dc6415312)
 
 
 <hr>
