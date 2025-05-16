@@ -270,6 +270,6 @@ Here are some ideas to get you started:
 <p>改良校內的愛校建言系統的系統開發</p>
 
 ![image](https://github.com/user-attachments/assets/a2a6bfb9-f7e4-4bf6-bb6b-6c2dc6415312)
-
+<p>我主要負責後臺處所與管理者的傳值邏輯設計、整個系統的基本資料庫設計與建置及後端開發，也有負責一部份的前端與動態網頁轉場製作</p>
 
 <hr>
