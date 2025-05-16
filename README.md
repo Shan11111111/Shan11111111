@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0&icon_names=open_in_new" />
+
 
 <!--
 **Shan11111111/Shan11111111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -249,9 +249,7 @@ Here are some ideas to get you started:
       <li>管理者審核貼文之相關介面</li>
     </ul>
 <br>
-  <li><a href="吃點點遊戲.7z">吃點點遊戲
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&icon_names=open_in_new" />
-  
+  <li><a href="吃點點遊戲.7z">吃點點遊戲:point_up_2:
   </a></li>
     <img src="吃點點起始介面.png">
   <p><b>個人獨立研發的小遊戲採用unity 2D開發，以下是遊玩介紹:</b></p>
