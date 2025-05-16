@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 -->
 <h2>陳怡珊(Chen Yi-Shan)</h2>
 <ul>
-  <li>生日:2005/02/22</li>
-  <li>就讀科系:輔仁大學/資訊管理學系</li>
-  <li>位置:新北市</li>
-  <li>e-mail:09shan2005@gmail.com</li>
+  <li>生日: 2005/02/22</li>
+  <li>就讀科系: 輔仁大學/資訊管理學系</li>
+  <li>位置: 新北市</li>
+  <li>e-mail: 09shan2005@gmail.com</li>
   <li>個人ig: @sssssssaaannnddra
   <li>繪帳: @dra_sha_iii</li>
-  <li>電話號碼:0909-165-648</li>
-  <li>興趣：繪畫、寫程式、彈鋼琴</li>
+  <li>電話號碼: 0909-165-648</li>
+  <li>興趣: 繪畫、寫程式、彈鋼琴</li>
 </ul>
 
 <audio controls autoplay>
