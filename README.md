@@ -20,7 +20,9 @@ Here are some ideas to get you started:
   <li>就讀科系:輔仁大學/資訊管理學系</li>
   <li>位置:新北市</li>
   <li>e-mail:09shan2005@gmail.com</li>
+  <li>ig:@dra_sha_iii
   <li>電話號碼:0909-165-648</li>
+  <li>興趣：繪畫、寫程式、彈鋼琴</li>
 </ul>
 
 <audio controls autoplay>
@@ -31,21 +33,28 @@ Here are some ideas to get you started:
 <hr>
 <h4>技能</h4>
 <ul>
-  <li>程式語言開發能力:Python, C, Java</li>
-  <li>網頁前端設計能力:HTML5, CSS, JavaScript</li>
+  <li>程式語言開發能力:Python（OpenCV, Selemium, Flask), C, Java, C# </li>
+  <li>開發環境能力: Visual Studio Code, Unity 2D, Unity 3D</li>
+  <li>版本控制能力：Git, GitHub</li>
+  <li>運用軟體進行專案管理能力：Click Up</li>
+  <li>基礎自動化測試腳本撰寫與Debug能力：Selemium</li>
+  <li>網頁前端設計能力:HTML5, CSS, JavaScript, Three.js</li>
   <li>網頁後端設計能力:PHP, MySQL</li>
   <li>電腦繪圖軟體能力:PhotoShop, Photopea, Clip Studio Paint, Medibang, Krita, Adobe  illustrator 2022, Fresco, Procreate</li>
-  <li>動畫製作能力:Clip Studio Paint Pro, Procreate Dreams</li>
+  <li>多媒體製作能力:Clip Studio Paint Pro, Procreate Dreams, Three.js</li>
   <li>文書處理能力:Word, Excel, PowerPoint, Canva</li>
   <li>AI應用能力：ChatGPT, Figma, Galio AI, Riffution</li>
 </ul>
 
-
-
 <hr>
 <h4>自傳</h4>
-<span>你們好! 我是來自輔仁大學資訊管理學系的陳怡珊，大學學習Python, C, Java, MySQL, HTML5, CSS, PHP外，我目前正在修習C#, Unity遊戲設計與智慧物聯網的課程，我曾經與ChatGPT協作ㄧ款2D unity小遊戲，透過Debug與測試，讓小遊戲能夠跑動。除此之外，我也有前端與後端的整合系統作品，我在團隊中，通常扮演邏輯設計的後端與資料庫設計的主導者。我的興趣除了寫程式，還有電腦繪畫，我從小自學並精進畫技，我期望結合自己的繪畫能力與網頁系統，打造具備互動體驗的系統，打造品牌與永續經營。在課程修習方面，我除了修習資管系的必修，例如:
-  web前端設計、web程式設計、Python課程、Java課程、資料庫管理、C語言，我也有參與資工系的課程，例如:離散數學。大學期間，我接受了很完整的資訊科技與開發的課程，資訊相關修課紀錄:</span>
+<span>你們好! 我是來自輔仁大學資訊管理學系的陳怡珊，座右銘是「走過才會知道，繁華與寧靜適合不同的人」，我致力於實現團隊願景與個人價值提升，我在大學大一、大二時學習Python, C, Java, 
+  MySQL, HTML5, CSS, PHP，這一路慢慢確立自己對於互動性質的系統開發最具興趣，因此根據興趣在大二、大三、大四時選修自己感興趣的課程，我目前修習C#與Unity遊戲設計的課程，在這之前，我曾經
+  自主學習與ChatGPT協作ㄧ款2D unity小遊戲，我透過Debug與測試來讓小遊戲能夠跑動。除此之外，我也參與如何與團隊合作開發系統，我在團隊中，通常扮演提出一個願景、規劃邏輯設計與資料庫設計的
+  後端主導者，當然我也能夠獨立開發系統，讓前端與後端、資料庫進行交互作用。我的生活除了寫程式，還有繪畫、音樂相關的創作，例如：我會把圖畫分享到經營的畫圖帳號，並擁有小眾的受眾，因此有了接單
+  的經驗，能夠與客戶進行溝通，達成共識。我期望結合自己的繪畫能力與系統開發能力，打造具備互動體驗的系統，實現品牌與永續經營，創造更多創意價值給公司，達成雙贏的理想。以上是我的基本介紹，接下來
+  是課程修習方面，除了系上的課程外，我也有參與資工系與應美系的課程，例如:離散數學。言簡之，我在大學期間接受了相當完整的資訊科技知識與開發系統的課程，我修習必修的成果如下：
+</span>
   <ul>
     <ul>
       <li>資訊相關修課</li>
@@ -82,6 +91,12 @@ Here are some ideas to get you started:
           <li>Galio AI</li>
         </ul>
       <li>系統設計與開發</li>
+      <ul>
+<li>PHP</li>
+<li>Git</li>
+<li>Selemium自動化測試</li>
+<li>MySQL</li>
+</ul>
       <li>資料通訊與網路</li>
       <li>資料結構</li>
       <li>智慧物聯網概論</li>
@@ -120,9 +135,8 @@ Here are some ideas to get you started:
     <li>程式Debug的能力</li>
     <li>熟悉Unity與C#的程式應用</li>
   </ul>
-<span>上述便是我擁有的能力，請貴公司給予我機會，讓我能為公司出一份力!</span>
-
-
+<span>上述不僅是我的學習成果，也是我大學時期致力於提升個人價值的累積證明，我可能不是最聰慧的成員，但我會是最努力的成員之一，
+  我深知人外有人，天外有天，但是儘管如此，我的腳步也不曾輕易停下，不斷的學習並累積自己，時間自然會證明我的努力與付出！</span>
 
 <hr>
 
@@ -149,8 +163,11 @@ Here are some ideas to get you started:
       </ul>
     <li><a href="AIOT智慧養殖線上專題講座.jpg">"連結台灣專題講座:AIOT與智慧養殖"線上會議 參與證明</a></li>
     <li><a href="2025生成式ai應用網頁設計競賽晉級決賽證明.pdf">2025 ITSA 生成式AI網頁設計試辦賽 決賽晉級證明</a></li>
-    <li>2025創新智慧大賞參與</li>
+    <li>2025 經濟部創新智慧大賞參與</li>
     </ul>
+<hr>
+<h4>證照</h4>
+<ul><li>全民英檢聽讀初級通過</li></ul>
 <hr>
 <h4>作品集</h4>
 <ul>
