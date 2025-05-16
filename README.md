@@ -255,10 +255,10 @@ Here are some ideas to get you started:
       <li>管理者審核貼文之相關介面</li>
     </ul>
 <br>
-  <li><a href="吃點點遊戲.7z">吃點點遊戲<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-box-arrow-in-left" viewBox="0 0 16 16">
-  <path fill-rule="evenodd" d="M10 3.5a.5.5 0 0 0-.5-.5h-8a.5.5 0 0 0-.5.5v9a.5.5 0 0 0 .5.5h8a.5.5 0 0 0 .5-.5v-2a.5.5 0 0 1 1 0v2A1.5 1.5 0 0 1 9.5 14h-8A1.5 1.5 0 0 1 0 12.5v-9A1.5 1.5 0 0 1 1.5 2h8A1.5 1.5 0 0 1 11 3.5v2a.5.5 0 0 1-1 0z"/>
-  <path fill-rule="evenodd" d="M4.146 8.354a.5.5 0 0 1 0-.708l3-3a.5.5 0 1 1 .708.708L5.707 7.5H14.5a.5.5 0 0 1 0 1H5.707l2.147 2.146a.5.5 0 0 1-.708.708z"/>
-</svg></a></li>
+  <li><a href="吃點點遊戲.7z">吃點點遊戲
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&icon_names=open_in_new" />
+  
+  </a></li>
     <img src="吃點點起始介面.png">
   <p><b>個人獨立研發的小遊戲採用unity 2D開發，以下是遊玩介紹:</b></p>
   <p>解壓縮完後，點擊資料夾中的eat_dot來玩這款吃點點小遊戲吧! 透過左鍵及右鍵控制角色(球)左右移動、空白鍵跳躍，來吃紅色的點點，在三十秒內若角色吃到5個點點則獲勝，反之，則遊戲結束 ; 若想要在玩一次請點選restart鍵，暫停請按stop鍵，再按一次stop鍵則代表取消暫停，繼續開始遊戲，祝您有美好的遊戲體驗~</p>
