@@ -232,10 +232,7 @@ Here are some ideas to get you started:
 </ul>
   <br>
 <ul>
-  <li><a href="https://fjuedu-my.sharepoint.com/:v:/g/personal/412402141_m365_fju_edu_tw/EWKVJAHxJy5DolX-hUdaLcQB733R8vNktbI-CLI8vo-PZg?e=xidQqe&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">題庫資料庫建置影片(資料庫管理)<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-box-arrow-in-left" viewBox="0 0 16 16">
-  <path fill-rule="evenodd" d="M10 3.5a.5.5 0 0 0-.5-.5h-8a.5.5 0 0 0-.5.5v9a.5.5 0 0 0 .5.5h8a.5.5 0 0 0 .5-.5v-2a.5.5 0 0 1 1 0v2A1.5 1.5 0 0 1 9.5 14h-8A1.5 1.5 0 0 1 0 12.5v-9A1.5 1.5 0 0 1 1.5 2h8A1.5 1.5 0 0 1 11 3.5v2a.5.5 0 0 1-1 0z"/>
-  <path fill-rule="evenodd" d="M4.146 8.354a.5.5 0 0 1 0-.708l3-3a.5.5 0 1 1 .708.708L5.707 7.5H14.5a.5.5 0 0 1 0 1H5.707l2.147 2.146a.5.5 0 0 1-.708.708z"/>
-</svg></a></li>
+  <li><a href="https://fjuedu-my.sharepoint.com/:v:/g/personal/412402141_m365_fju_edu_tw/EWKVJAHxJy5DolX-hUdaLcQB733R8vNktbI-CLI8vo-PZg?e=xidQqe&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">題庫資料庫建置影片(資料庫管理)</a></li>
   <img src="erd.png">
       <p>資料庫管理這門課教MySQL，我自主學習postgreSQL來建置資料庫，我自訂的題目是存放題庫為主的資料庫，會選擇題庫做為題目是源於我使用線上題庫的系統寫題目時有時候會想有一些寫題目獎勵或是出題獎勵，如果題目可以依難易度分類，查找內容的時候會更方便，基於這個理念做出來的個人作業。</p>
       <ul>
@@ -243,10 +240,7 @@ Here are some ideas to get you started:
         <li>設計十種查詢</li>
       </ul>
 <br>
-  <li><a href="https://www.figma.com/proto/tNEnqHL50XemTEUaU6k3sw/ui%2Fux?node-id=246-3754&starting-point-node-id=246%3A3754&t=IVt0sHTeufGB4eUP-1">二手物平台介面設計(創新與設計思考)<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-box-arrow-in-left" viewBox="0 0 16 16">
-  <path fill-rule="evenodd" d="M10 3.5a.5.5 0 0 0-.5-.5h-8a.5.5 0 0 0-.5.5v9a.5.5 0 0 0 .5.5h8a.5.5 0 0 0 .5-.5v-2a.5.5 0 0 1 1 0v2A1.5 1.5 0 0 1 9.5 14h-8A1.5 1.5 0 0 1 0 12.5v-9A1.5 1.5 0 0 1 1.5 2h8A1.5 1.5 0 0 1 11 3.5v2a.5.5 0 0 1-1 0z"/>
-  <path fill-rule="evenodd" d="M4.146 8.354a.5.5 0 0 1 0-.708l3-3a.5.5 0 1 1 .708.708L5.707 7.5H14.5a.5.5 0 0 1 0 1H5.707l2.147 2.146a.5.5 0 0 1-.708.708z"/>
-</svg></li>
+  <li><a href="https://www.figma.com/proto/tNEnqHL50XemTEUaU6k3sw/ui%2Fux?node-id=246-3754&starting-point-node-id=246%3A3754&t=IVt0sHTeufGB4eUP-1">二手物平台介面設計(創新與設計思考)</li>
     <img src="Figma畫面.png">
     <p>這是一組五人利用Figma設計手機介面並兼具SDGs的第十二項目標責任消費理念的團隊課堂作業，我負責:</p>
     <ul>
