@@ -165,7 +165,7 @@ Here are some ideas to get you started:
 <hr>
   <h4>工作經驗</h4>
 <ul><li>自由接案插畫師（Shopee蝦皮賣場、illustbuy繪畫委託進駐自由接單）</li>
-<p>個人創作經營｜2023/06-至今</p>
+<p>個人創作經營｜2024/06-至今</p>
 <ul><li>經營個人蝦皮賣場，提供插畫/角色設計等繪畫委託服務。</li>
 <li>自行經營插畫委託服務，專攻 Q 版人物與個人頭像繪製，累積完成 10+ 件委託作品。</li>
 <li>擅長以Procreate/Clip studio paint pro製作繪圖委託，並依照用途提供適當的解析度與格式。</li>
