@@ -255,6 +255,7 @@ Figma, Galio AI
 
 <br>
 <hr>
+<h4>Side Project</h4>
 <div class="project-card">
  <h3>Eat Dot – Unity 小遊戲</h3>
   <img src="吃點點起始介面.png">
