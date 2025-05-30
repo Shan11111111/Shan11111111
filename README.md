@@ -145,14 +145,31 @@ PostgreSQL、SQL
 如需詳細 ER 圖或 SQL 查詢範例，可另行提供。
 
 <br>
-  <li><a href="https://www.figma.com/proto/tNEnqHL50XemTEUaU6k3sw/ui%2Fux?node-id=246-3754&starting-point-node-id=246%3A3754&t=IVt0sHTeufGB4eUP-1">[Figma介面瀏覽連結]二手物平台介面設計(創新與設計思考)⚡</li>
+
+
+## SDGs責任消費手機介面設計 — 團隊課堂作業
+
+  <a href="https://www.figma.com/proto/tNEnqHL50XemTEUaU6k3sw/ui%2Fux?node-id=246-3754&starting-point-node-id=246%3A3754&t=IVt0sHTeufGB4eUP-1">[Figma介面瀏覽連結]二手物平台介面設計(創新與設計思考)⚡</li>
     <img src="Figma畫面.png">
-    <p>這是一組五人利用Figma設計手機介面並兼具SDGs的第十二項目標責任消費理念的團隊課堂作業，我負責:</p>
-    <ul>
-      <li>登入登出及註冊的介面設計</li>
-      <li>通知設定的藍點及白點轉換介面設計</li>
-      <li>管理者審核貼文之相關介面</li>
-    </ul>
+    
+**專案介紹**  
+本專案為五人團隊合作課堂作業，利用 Figma 設計符合聯合國永續發展目標（SDGs）第十二項「責任消費與生產」的手機應用介面。目標是透過設計提升使用者在消費過程中的環保意識及責任感。
+
+**我的工作內容**  
+- 設計使用者登入、登出及註冊介面  
+- 設計通知設定中藍點與白點的切換介面，以提升使用者互動體驗  
+- 設計管理者審核貼文相關的管理介面，強化內容審核流程
+
+**使用工具**  
+Figma, Galio AI
+
+---
+
+如需介面設計原型與詳細視覺稿，歡迎聯繫索取。
+
+
+
+   
 <br>
   <div class="project-card">
  <h3>Eat Dot – Unity 小遊戲</h3>
