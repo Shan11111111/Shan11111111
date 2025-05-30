@@ -291,7 +291,7 @@ demo介紹影片連結:
 [![Watch the video](https://img.youtube.com/vi/P-S-ICTIxD8/0.jpg)](https://youtu.be/P-S-ICTIxD8)
 
     
-<li><a href="https://drive.google.com/file/d/16jNPUIfk-ZEZeE0rX1HN02GMueyP20zA/view?usp=sharing">孵仁養雞募資平台(系統設計與開發之作品)</a></li>
+<li><a href="https://drive.google.com/file/d/16jNPUIfk-ZEZeE0rX1HN02GMueyP20zA/view?usp=sharing">孵仁養雞募資平台(系統設計與設計課程中開發之團隊作品)</a></li>
 <p><a href="系統分析與設計期末文件.pdf">文件連結:📎</a></p>
 主畫面示意圖:homepage.php
 
