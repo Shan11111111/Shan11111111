@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h2>陳怡珊(Chen Yi-Shan)</h2>
 <ul>
   <li>生日: 2005/02/22</li>
-  <li>就讀科系: 輔仁大學/資訊管理學系</li>
+  <li>就讀科系: 輔仁大學/資訊管理學系(GDP 4.0/排名9%)</li>
   <li>位置: 新北市</li>
   <li>e-mail: 09shan2005@gmail.com</li>
   <li>個人ig: @sssssssaaannnddra
