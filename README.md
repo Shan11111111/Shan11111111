@@ -104,58 +104,25 @@ Hi，我是陳怡珊，就讀輔仁大學資訊管理學系，GPA 4.0，系上�
 <h4>💻專案經驗</h4>
 <ul>
   
-  <li><a href="產業實習平台(php,mysql,htm).7z">[程式碼資料夾連結]產業實習平台(Web程式設計課程作業)⚡</a><img src="圖01.png"></li>
-  <p>我與一位同學於大二上學期一起設計的資訊系統，我們使用PHP, mySQL, HTML, Xampp, Github, Bootstrape, JavaScript，功能主要圍繞新增、修改、刪除、查詢。</p>
+  <li><a href="[產業實習平台(php,mysql,htm).7z](https://github.com/Shan11111111/Website_assignment/blob/main/README.md)">產業實習平台⚡</a><img src="圖01.png"></li>
+  
+## 學生實習資訊管理系統 — 團隊專案（PHP / MySQL / Bootstrap / JavaScript）
 
+<img src="圖01.png">
 
-<ul>
-  <ul>
-    <li>我負責的後端部分:</li>
-    <ul>
-      <li>session權限存取</li>
-      <li>test資料庫建置</li>
-      <li>教師版面的企業CRUD</li>
-      <li>教師版面的職缺CRUD</li>
-      <li>教師的統計圖表查看</li>
-      <li>管理者的問題回報RD</li>
-      <li>管理者的統計圖表查看</li>
-    </ul>
-    <br>
-    <li>我負責的前端部分(HTML5+CSS+JavaScript+Bootstrape template樣板置入與美化版面):</li>
-    <ul>
-      <li>Bootstape icon置入</li>
-      <li>未登入前的所有版面設計:首頁、設立理念、企業列表、聯絡我們、頁尾</li>
-      <li>登入後學生版面:</li>
-      <ol>
-      <li>企業資訊列表</li>
-      <li>實習資料上傳設計</li>
-      <li>申請書上傳設計</li>
-      <li>訂閱版面設計</li>
-      </ol>
-      <li>登入後教師版面:</li>
-      <ol>
-      <li>職缺表單設計</li>
-      <li>企業表單設計</li>
-      <li>訂閱標籤版面設計</li>
-      </ol>
-      <li>登入後管理者版面:</li>
-      <ol>
-      <li>問題回報設計</li>
-      <li>統計圖表設計</li>
-      </ol>
-    </ul> 
-  </ul>
-  <br>
-  <ul>
-    <li>多媒體動畫與繪圖製作:</li>
-    <ul>
-      <li>等待小動畫:toothless animation</li>
-      <p>利用Clip Studio Paint Pro製作的小動畫</p>
-    
-  </ul>
-</ul>
-</ul>
-</ul>
+**專案簡介**  
+與同學合作開發一套多角色的學生實習管理系統，支援學生、教師及管理者使用，包含完整的新增、修改、刪除、查詢（CRUD）功能，以及數據統計與問題回報模組。
+
+**個人貢獻**  
+- **後端**：實作 Session 權限控制、資料庫設計與管理、教師端企業與職缺 CRUD、管理者端問題回報與統計分析功能。  
+- **前端**：利用 Bootstrap 和 JavaScript 設計並美化多角色介面，包括未登入頁面、學生資料上傳、教師表單與管理者儀表板。  
+- **多媒體**：製作等待動畫提升使用者體驗。
+
+**使用技術**  
+PHP、MySQL、HTML5、CSS3、JavaScript、Bootstrap、XAMPP、Chart.js、Git
+
+<a href="[產業實習平台(php,mysql,htm).7z](https://github.com/Shan11111111/Website_assignment/blob/main/README.md)">查看GitHub⚡</a>
+
   <br>
 <ul>
   <li><a href="https://fjuedu-my.sharepoint.com/:v:/g/personal/412402141_m365_fju_edu_tw/EWKVJAHxJy5DolX-hUdaLcQB733R8vNktbI-CLI8vo-PZg?e=xidQqe&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">[介紹影片連結]題庫資料庫建置影片(資料庫管理)⚡</a></li>
