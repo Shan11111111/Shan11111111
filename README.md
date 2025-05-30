@@ -255,7 +255,7 @@ Figma, Galio AI
 
 ## 🔗 展示連結或 GitHub Repo
 - GitHub Repository: [YourGitHubLinkHere](https://github.com/Shan11111111/system_project)
-<p><a href="系統分析與設計期末文件.pdf">系統設計文件連結:📎</a></p>
+- 系統設計文件連結:<a href="系統分析與設計期末文件.pdf">📎</a></p>
 
 ---
 
