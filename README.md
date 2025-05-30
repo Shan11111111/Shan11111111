@@ -25,27 +25,29 @@ Here are some ideas to get you started:
   <li>電話號碼: 0909-165-648</li>
   <li>興趣: 繪畫、寫程式、彈鋼琴</li>
 </ul>
-
-<audio controls autoplay>
-  <source src="Echoes Rise(女聲).m4a" type="audio/m4a">
-  <source src="Echoes Rise(女聲).m4a" type="audio/m4a">
-  <source src="Echoes Rise(女聲).m4a" type="audio/m4a">  
-</audio>
+<hr>
+## 🙋‍♀️ 關於我
+Hi，我是陳怡珊，就讀輔仁大學資訊管理學系，GPA 4.0，系上排名前 9%。我對 AI、人機互動、虛擬系統充滿熱情，也熱愛插畫與設計，追求技術與創意的結合，打造兼具功能與美感的數位體驗。
 <hr>
 <h4>🎁技能🎁</h4>
-<ul>
-  <li>程式語言開發能力:Python（OpenCV, Selemium, Flask), C, Java, C# </li>
-  <li>開發環境能力: Visual Studio Code, Unity 2D, Unity 3D</li>
-  <li>版本控制能力：Git, GitHub</li>
-  <li>運用軟體進行專案管理能力：Click Up</li>
-  <li>基礎自動化測試腳本撰寫與Debug能力：Selemium</li>
-  <li>網頁前端設計能力:HTML5, CSS, JavaScript, Three.js</li>
-  <li>網頁後端設計能力:PHP, MySQL</li>
-  <li>電腦繪圖軟體能力:PhotoShop, Photopea, Clip Studio Paint, Medibang, Krita, Adobe  illustrator 2022, Fresco, Procreate</li>
-  <li>多媒體製作能力:Clip Studio Paint Pro, Procreate Dreams, Three.js</li>
-  <li>文書處理能力:Word, Excel, PowerPoint, Canva</li>
-  <li>AI應用能力：ChatGPT, Figma, Galio AI, Riffution</li>
-</ul>
+### 🎯 程式與開發技能
+- **程式語言**：Python（Flask, Selenium, OpenCV）、C、Java、C#、PHP、JavaScript
+- **前端**：HTML5、CSS、JavaScript、Three.js、Bootstrap 5
+- **後端與資料庫**：MySQL、PHP
+- **自動化測試**：Selenium
+- **版本控制與專案管理**：Git, GitHub, Click Up
+- **AI 工具應用**：ChatGPT、Figma、Galio AI、Riffution
+- **開發工具**：VS Code、Unity (2D/3D)
+
+### 🎨 藝術與多媒體創作
+- **繪圖工具**：Procreate、Clip Studio Paint、Krita、Fresco、Medibang、Photopea
+- **影像/平面設計**：Photoshop、Illustrator 2022
+- **多媒體製作**：Procreate Dreams、Three.js
+
+### 🧰 其他工具與軟實力
+- **文書工具**：Word、Excel、PowerPoint、Canva
+- **溝通與統籌**：專案協調、需求訪談、流程規劃
+
 
 <hr>
 <h4>🌱自傳🌱</h4>
@@ -144,7 +146,7 @@ Here are some ideas to get you started:
 <h4>📜校內經歷</h4>
 <ul>
   <li>大一上書卷獎</li>  
-  <li><a href="茲證明輔仁大學學校財團法人輔仁大學陳怡珊同學，.pdf">2024輔仁大學教育部偏鄉教育學伴計劃(程式設計) 優良大學伴獎狀</a></li>
+  <li>2024 輔仁大學 教育部偏鄉教育學伴計劃(程式設計)-優良大學伴獎狀<a href="茲證明輔仁大學學校財團法人輔仁大學陳怡珊同學，.pdf">證書證明</a></li>
   <li><a href='2024ESG與循環經濟研討會參加證明.pdf'>2024 ESG與循環經濟研討會 參加證明</a></li>  
   <li><a href="web程式設計課程第三名.pdf">web程式設計課程 第三名</a></li>
 </ul>
