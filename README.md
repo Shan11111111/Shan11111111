@@ -166,17 +166,6 @@ Figma, Galio AI
 ---
 
 如需介面設計原型與詳細視覺稿，歡迎聯繫索取。
-
-
-
-   
-<br>
-  <div class="project-card">
- <h3>Eat Dot – Unity 小遊戲</h3>
-  <img src="吃點點起始介面.png">
-  <p>30 秒內吃完 5 顆紅點即勝利的小球遊戲，練習 Unity 2D 物理控制、UI 設計與互動。</p>
-  <a href="https://github.com/Shan11111111/my_unity_2dgame_eat_dot">🔗 查看 GitHub</a>
-</div>
   
 <br>
 ## SOAP 語音紀錄助手
@@ -263,3 +252,12 @@ Figma, Galio AI
 
 
 </ul>
+
+<br>
+<hr>
+<div class="project-card">
+ <h3>Eat Dot – Unity 小遊戲</h3>
+  <img src="吃點點起始介面.png">
+  <p>30 秒內吃完 5 顆紅點即勝利的小球遊戲，練習 Unity 2D 物理控制、UI 設計與互動。</p>
+  <a href="https://github.com/Shan11111111/my_unity_2dgame_eat_dot">🔗 查看 GitHub</a>
+</div>
