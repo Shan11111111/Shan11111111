@@ -128,7 +128,8 @@ Here are some ideas to get you started:
       </ul>
     </ul>
   </ul>
-  <span>經由這些課程，讓我擁有:</span>
+  <span>經由這些課程，讓我擁有:
+  </span>
   <ul>
     <li>熟悉HTML5, CSS, JavaScript應用</li>
     <li>熟悉PHP, MySQL基礎語法及後端連結前端的方法</li>
