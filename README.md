@@ -21,8 +21,8 @@ Here are some ideas to get you started:
   <li>位置: 新北市</li>
   <li>e-mail: 09shan2005@gmail.com</li>
   <li>個人ig: @sssssssaaannnddra
-  <li>繪帳（作品集）: @dra_sha_iii</li>
-  <li>電話號碼: 0909-165-648</li>
+<!--   <li>繪帳（作品集）: @dra_sha_iii</li> -->
+<!--   <li>電話號碼: 0909-165-648</li> -->
   <li>興趣: 繪畫、寫程式、彈鋼琴</li>
 </ul>
 <hr>
