@@ -252,9 +252,14 @@ Figma, Galio AI
 | 開發環境   | XAMPP (Apache + MySQL)                  |
 
 ---
-歡迎聯絡了解更多專案細節與技術細節。
 
 ## 🔗 展示連結或 GitHub Repo
 - GitHub Repository: [YourGitHubLinkHere](https://github.com/Shan11111111/system_project)
 <p><a href="系統分析與設計期末文件.pdf">系統設計文件連結:📎</a></p>
+
+---
+
+歡迎聯絡了解更多專案細節與技術細節。
+
+
 </ul>
