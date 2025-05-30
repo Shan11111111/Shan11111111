@@ -122,14 +122,28 @@ PHP、MySQL、HTML5、CSS3、JavaScript、Bootstrap、XAMPP、Chart.js、Git
 <a href="https://github.com/Shan11111111/Website_assignment/blob/main/README.md">查看GitHub⚡</a>
 
   <br>
-<ul>
-  <li><a href="https://fjuedu-my.sharepoint.com/:v:/g/personal/412402141_m365_fju_edu_tw/EWKVJAHxJy5DolX-hUdaLcQB733R8vNktbI-CLI8vo-PZg?e=xidQqe&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">[介紹影片連結]題庫資料庫建置影片(資料庫管理)⚡</a></li>
+
+
+## PostgreSQL 題庫資料庫設計 — 個人專案
+
+<a href="https://fjuedu-my.sharepoint.com/:v:/g/personal/412402141_m365_fju_edu_tw/EWKVJAHxJy5DolX-hUdaLcQB733R8vNktbI-CLI8vo-PZg?e=xidQqe&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">demo連結⚡</a></li>
   <img src="erd.png">
-      <p>資料庫管理這門課教MySQL，我自主學習postgreSQL來建置資料庫，我自訂的題目是存放題庫為主的資料庫，會選擇題庫做為題目是源於我使用線上題庫的系統寫題目時有時候會想有一些寫題目獎勵或是出題獎勵，如果題目可以依難易度分類，查找內容的時候會更方便，基於這個理念做出來的個人作業。</p>
-      <ul>
-        <li>包含六個資料表、商業規則，及三種關係:一對一、一對多、多對多</li>
-        <li>設計十種查詢</li>
-      </ul>
+  
+**專案背景**  
+課程中學習 MySQL 後，我自主學習 PostgreSQL 並設計一個專門用於存放題庫的資料庫系統。靈感來自我使用線上題庫系統時，希望能根據題目難易度分類，並引入寫題目或出題的獎勵機制，讓題庫管理更有效率與方便。
+
+**專案內容**  
+- 設計六個資料表，包含題目、難度、獎勵等欄位。  
+- 完成商業規則定義，並實現三種資料表關係：一對一、一對多、多對多。  
+- 實作十種複雜查詢以滿足不同的資料檢索需求。
+
+**使用技術**  
+PostgreSQL、SQL
+
+---
+
+如需詳細 ER 圖或 SQL 查詢範例，可另行提供。
+
 <br>
   <li><a href="https://www.figma.com/proto/tNEnqHL50XemTEUaU6k3sw/ui%2Fux?node-id=246-3754&starting-point-node-id=246%3A3754&t=IVt0sHTeufGB4eUP-1">[Figma介面瀏覽連結]二手物平台介面設計(創新與設計思考)⚡</li>
     <img src="Figma畫面.png">
