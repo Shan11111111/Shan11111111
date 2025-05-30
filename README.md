@@ -195,18 +195,18 @@ Here are some ideas to get you started:
 <hr>
 <h4>💻作品集</h4>
 <ul>
-  <li><a href="資訊管理協會.7z">中華民國資訊管理協會(web前端課程作業)⚡</a></li>
+  <li><a href="資訊管理協會.7z">[程式碼資料夾連結]中華民國資訊管理協會(web前端課程作業)⚡</a></li>
   <img src="資訊管理協會首頁介面.png">
   <p>我負責"聯絡我們"、"研究與出版品"、"English"介面及其下拉式之相關介面</p>
 
   <br>
-  <li><a href="web前端期末作業">儀器預約系統(web前端課程作業)⚡</a></li>
+  <li><a href="web前端期末作業.7z">[程式碼資料夾連結]儀器預約系統(web前端課程作業)⚡</a></li>
   <img src="儀器預約系統前端介面.png">
   <p>我與兩位同學於大一下學期設計的資訊系統前端介面，我們使用HTML, CSS, Bootstrape, Github, JavaScript，模擬預約網站的介面，分工是每個人負責兩個導覽列選項之相關內容。我負責"預約"介面及其下拉式選單: "預約儀器"、"目前預約儀器"之介面設計以及"繳費"介面及其下拉式選單: "繳費情況"、"我要繳費"之介面設計</p>
 
 
   <br>
-  <li><a href="產業實習平台(php,mysql,htm).7z">產業實習平台(Web程式設計課程作業)⚡</a><img src="圖01.png"></li>
+  <li><a href="產業實習平台(php,mysql,htm).7z">[程式碼資料夾連結]產業實習平台(Web程式設計課程作業)⚡</a><img src="圖01.png"></li>
   <p>我與一位同學於大二上學期一起設計的資訊系統，我們使用PHP, mySQL, HTML, Xampp, Github, Bootstrape, JavaScript，功能主要圍繞新增、修改、刪除、查詢。</p>
 
 
@@ -260,7 +260,7 @@ Here are some ideas to get you started:
 </ul>
   <br>
 <ul>
-  <li><a href="https://fjuedu-my.sharepoint.com/:v:/g/personal/412402141_m365_fju_edu_tw/EWKVJAHxJy5DolX-hUdaLcQB733R8vNktbI-CLI8vo-PZg?e=xidQqe&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">題庫資料庫建置影片(資料庫管理)⚡</a></li>
+  <li><a href="https://fjuedu-my.sharepoint.com/:v:/g/personal/412402141_m365_fju_edu_tw/EWKVJAHxJy5DolX-hUdaLcQB733R8vNktbI-CLI8vo-PZg?e=xidQqe&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">[介紹影片連結]題庫資料庫建置影片(資料庫管理)⚡</a></li>
   <img src="erd.png">
       <p>資料庫管理這門課教MySQL，我自主學習postgreSQL來建置資料庫，我自訂的題目是存放題庫為主的資料庫，會選擇題庫做為題目是源於我使用線上題庫的系統寫題目時有時候會想有一些寫題目獎勵或是出題獎勵，如果題目可以依難易度分類，查找內容的時候會更方便，基於這個理念做出來的個人作業。</p>
       <ul>
@@ -268,7 +268,7 @@ Here are some ideas to get you started:
         <li>設計十種查詢</li>
       </ul>
 <br>
-  <li><a href="https://www.figma.com/proto/tNEnqHL50XemTEUaU6k3sw/ui%2Fux?node-id=246-3754&starting-point-node-id=246%3A3754&t=IVt0sHTeufGB4eUP-1">二手物平台介面設計(創新與設計思考)⚡</li>
+  <li><a href="https://www.figma.com/proto/tNEnqHL50XemTEUaU6k3sw/ui%2Fux?node-id=246-3754&starting-point-node-id=246%3A3754&t=IVt0sHTeufGB4eUP-1">[Figma介面瀏覽連結]二手物平台介面設計(創新與設計思考)⚡</li>
     <img src="Figma畫面.png">
     <p>這是一組五人利用Figma設計手機介面並兼具SDGs的第十二項目標責任消費理念的團隊課堂作業，我負責:</p>
     <ul>
@@ -277,8 +277,7 @@ Here are some ideas to get you started:
       <li>管理者審核貼文之相關介面</li>
     </ul>
 <br>
-  <li><a href="吃點點遊戲.7z">吃點點遊戲⚡
-  </a></li>
+  <li><a href="吃點點遊戲.7z">[程式碼資料夾連結]吃點點遊戲⚡</a></li>
     <img src="吃點點起始介面.png">
   <p><b>個人獨立研發的小遊戲採用unity 2D開發，以下是遊玩介紹:</b></p>
   <p>解壓縮完後，點擊資料夾中的eat_dot來玩這款吃點點小遊戲吧! 透過左鍵及右鍵控制角色(球)左右移動、空白鍵跳躍，來吃紅色的點點，在三十秒內若角色吃到5個點點則獲勝，反之，則遊戲結束 ; 若想要在玩一次請點選restart鍵，暫停請按stop鍵，再按一次stop鍵則代表取消暫停，繼續開始遊戲，祝您有美好的遊戲體驗~</p>
@@ -291,7 +290,8 @@ demo介紹影片連結:
 [![Watch the video](https://img.youtube.com/vi/P-S-ICTIxD8/0.jpg)](https://youtu.be/P-S-ICTIxD8)
 
     
-<li><a href="https://drive.google.com/file/d/16jNPUIfk-ZEZeE0rX1HN02GMueyP20zA/view?usp=sharing">孵仁養雞募資平台(系統設計與設計課程中開發之團隊作品)</a></li>
+<li><a href="https://drive.google.com/file/d/16jNPUIfk-ZEZeE0rX1HN02GMueyP20zA/view?usp=sharing">[程式碼資料夾連結]孵仁養雞募資平台(系統設計與設計課程中開發之團隊作品)</a></li>
+<br>
 <p><a href="系統分析與設計期末文件.pdf">文件連結:📎</a></p>
 主畫面示意圖:homepage.php
 
