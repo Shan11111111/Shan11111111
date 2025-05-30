@@ -15,16 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2>陳怡珊(Chen Yi-Shan)</h2>
-<ul>
-  <li>生日: 2005/02/22</li>
-  <li>就讀科系: 輔仁大學/資訊管理學系(GDP 4.0/排名9%)</li>
-  <li>位置: 新北市</li>
-  <li>e-mail: 09shan2005@gmail.com</li>
-  <li>個人ig: @sssssssaaannnddra
-<!--   <li>繪帳（作品集）: @dra_sha_iii</li> -->
-<!--   <li>電話號碼: 0909-165-648</li> -->
-  <li>興趣: 繪畫、寫程式、彈鋼琴</li>
-</ul>
+🎓 Fu Jen Catholic University – Dept. of Information Management  
+🏅 GPA 4.0 / Top 9%  
+📍 Based in New Taipei, Taiwan  
+📧 Contact: [commission or school email here]  
+🎨 Art Portfolio (IG): [@dra_sha_iii](https://www.instagram.com/dra_sha_iii)
 <hr>
 
 ## 🙋‍♀️ 關於我
