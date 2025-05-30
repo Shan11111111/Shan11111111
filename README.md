@@ -175,10 +175,13 @@ Hi，我是陳怡珊，就讀輔仁大學資訊管理學系，GPA 4.0，系上�
       <li>管理者審核貼文之相關介面</li>
     </ul>
 <br>
-  <li><a href="吃點點遊戲.7z">[程式碼資料夾連結]吃點點遊戲⚡</a></li>
+  <li><a href="吃點點遊戲.7z">吃點點遊戲: my_unity_2dgame_eat_dot⚡</a></li>
     <img src="吃點點起始介面.png">
-  <p><b>個人獨立研發的小遊戲採用unity 2D開發，以下是遊玩介紹:</b></p>
-  <p>解壓縮完後，點擊資料夾中的eat_dot來玩這款吃點點小遊戲吧! 透過左鍵及右鍵控制角色(球)左右移動、空白鍵跳躍，來吃紅色的點點，在三十秒內若角色吃到5個點點則獲勝，反之，則遊戲結束 ; 若想要在玩一次請點選restart鍵，暫停請按stop鍵，再按一次stop鍵則代表取消暫停，繼續開始遊戲，祝您有美好的遊戲體驗~</p>
+  <div class="project-card">
+  <h3>Eat Dot – Unity 小遊戲</h3>
+  <p>30 秒內吃完 5 顆紅點即勝利的小球遊戲，練習 Unity 2D 物理控制、UI 設計與互動。</p>
+  <a href="https://github.com/Shan11111111/Eat-Dot" target="_blank">🔗 查看 GitHub</a>
+</div>
   
 <br>
 <li>soap語音紀錄助手</li>
