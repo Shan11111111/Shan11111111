@@ -103,9 +103,7 @@ Hi，我是陳怡珊，就讀輔仁大學資訊管理學系，GPA 4.0，系上�
 <hr>
 <h4>💻專案經驗</h4>
 <ul>
-  
-  <li><a href="[產業實習平台(php,mysql,htm).7z](https://github.com/Shan11111111/Website_assignment/blob/main/README.md)">產業實習平台⚡</a><img src="圖01.png"></li>
-  
+
 ## 學生實習資訊管理系統 — 團隊專案（PHP / MySQL / Bootstrap / JavaScript）
 
 <img src="圖01.png">
@@ -146,7 +144,7 @@ PHP、MySQL、HTML5、CSS3、JavaScript、Bootstrap、XAMPP、Chart.js、Git
  <h3>Eat Dot – Unity 小遊戲</h3>
   <img src="吃點點起始介面.png">
   <p>30 秒內吃完 5 顆紅點即勝利的小球遊戲，練習 Unity 2D 物理控制、UI 設計與互動。</p>
-  <a href="https://github.com/Shan11111111/Eat-Dot" target="_blank">🔗 查看 GitHub</a>
+  <a href="https://github.com/Shan11111111/my_unity_2dgame_eat_dot">🔗 查看 GitHub</a>
 </div>
   
 <br>
