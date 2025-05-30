@@ -286,14 +286,14 @@ Here are some ideas to get you started:
 <br>
 <li>soap語音紀錄助手</li>
 <p>透過chatGPT金鑰，連結大語言模型，能夠記錄一段話並將內容切成soap格式存儲在資料庫裡，我將整個流程製作成一個介紹影片，我負責前面的錄音至存取資料庫，後面是指導教授製作的視覺圖。</p>
-影片連結:
+demo介紹影片連結:
     
 [![Watch the video](https://img.youtube.com/vi/P-S-ICTIxD8/0.jpg)](https://youtu.be/P-S-ICTIxD8)
 
     
-<li>孵仁養雞募資平台(系統設計與開發之作品)</li>
-<p>改良校內的愛校建言系統的系統開發</p>
-
+<li><a href="https://drive.google.com/file/d/16jNPUIfk-ZEZeE0rX1HN02GMueyP20zA/view?usp=sharing">孵仁養雞募資平台(系統設計與開發之作品)</a></li>
+<p><a href="系統分析與設計文件.pdf">文件連結:📎</a></p>
+主畫面示意圖:homepage.php
 ![image](https://github.com/user-attachments/assets/a2a6bfb9-f7e4-4bf6-bb6b-6c2dc6415312)
 <p>我主要負責後臺處所與管理者的傳值邏輯設計、整個系統的基本資料庫設計與建置及後端開發，也有負責一部份的前端與動態網頁轉場製作</p>
 <ul>
