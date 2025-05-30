@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ## 🙋‍♀️ 關於我
 Hi，我是陳怡珊，就讀輔仁大學資訊管理學系，GPA 4.0，系上排名前 9%。我對 AI、人機互動、虛擬系統充滿熱情，也熱愛插畫與設計，追求技術與創意的結合，打造兼具功能與美感的數位體驗。
 <hr>
-<h4>🎁技能🎁</h4>
+
 
 ### 🎯 程式與開發技能
 - **程式語言**：Python（Flask, Selenium, OpenCV）、C、Java、C#、PHP、JavaScript
