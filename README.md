@@ -179,11 +179,23 @@ Figma, Galio AI
 </div>
   
 <br>
-<li>soap語音紀錄助手</li>
-<p>透過chatGPT金鑰，連結大語言模型，能夠記錄一段話並將內容切成soap格式存儲在資料庫裡，我將整個流程製作成一個介紹影片，我負責前面的錄音至存取資料庫，後面是指導教授製作的視覺圖。</p>
-demo介紹影片連結:
-    
-[![Watch the video](https://img.youtube.com/vi/P-S-ICTIxD8/0.jpg)](https://youtu.be/P-S-ICTIxD8)
+## SOAP 語音紀錄助手
+
+**專案簡介**  
+本專案利用 ChatGPT API 連結大型語言模型，能夠錄製語音並自動將內容轉換成 SOAP（Subjective, Objective, Assessment, Plan）格式，並存入資料庫中，提升醫療或輔助記錄的效率。
+
+**我的工作內容**  
+- 負責前端錄音功能的開發  
+- 負責後端資料庫存取及 SOAP 資料結構存儲  
+- 與指導教授合作，整合視覺化介面與流程
+
+**專案成果**  
+- 製作完整的介紹影片展示專案功能及流程  
+- 影片連結：[點此觀看 Demo 影片](https://youtu.be/P-S-ICTIxD8)
+
+---
+
+歡迎聯繫索取更多專案細節與程式碼。
 
     
 <li><a href="https://drive.google.com/file/d/16jNPUIfk-ZEZeE0rX1HN02GMueyP20zA/view?usp=sharing">[程式碼資料夾連結]孵仁養雞募資平台(系統設計與設計課程中開發之團隊作品)</a></li>
