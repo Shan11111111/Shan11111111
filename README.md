@@ -262,3 +262,22 @@ Figma, Galio AI
   <p>30 秒內吃完 5 顆紅點即勝利的小球遊戲，練習 Unity 2D 物理控制、UI 設計與互動。</p>
   <a href="https://github.com/Shan11111111/my_unity_2dgame_eat_dot">🔗 查看 GitHub</a>
 </div>
+
+<div class="project-card">
+### 朝日朝食｜冰品網站
+
+**專案描述**  
+開發一個基於 GitHub Pages 的靜態網站，展示多款天然水果製作的夏季冰品，並設計購物待買清單功能，提升使用者互動體驗。
+
+**技術使用**  
+HTML5、CSS3、JavaScript（原生 JS）、GitHub Pages 部署
+
+**專案特色**  
+- 響應式設計，支援多裝置瀏覽  
+- 實作待買清單動態更新與價格計算  
+- 簡潔清新 UI，注重圖片展示與使用者體驗
+
+**專案連結**  
+[https://shan11111111.github.io/web.github.io/home.htm](https://shan11111111.github.io/web.github.io/home.htm)
+
+</div>
