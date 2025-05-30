@@ -14,13 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2>陳怡珊(Chen Yi-Shan)</h2>
+## 陳怡珊 (Chen Yi-Shan)
+
 🎓 Fu Jen Catholic University – Dept. of Information Management  
 🏅 GPA 4.0 / Top 9%  
 📍 Based in New Taipei, Taiwan  
 📧 Contact: [commission or school email here]  
 🎨 Art Portfolio (IG): [@dra_sha_iii](https://www.instagram.com/dra_sha_iii)
-<hr>
+
+---
 
 ## 🙋‍♀️ 關於我
 Hi，我是陳怡珊，就讀輔仁大學資訊管理學系，GPA 4.0，系上排名前 9%。我對 AI、人機互動、虛擬系統充滿熱情，也熱愛插畫與設計，追求技術與創意的結合，打造兼具功能與美感的數位體驗。
