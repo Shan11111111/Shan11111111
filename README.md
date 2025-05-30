@@ -18,9 +18,8 @@ Here are some ideas to get you started:
 
 🎓 Fu Jen Catholic University – Dept. of Information Management  
 🏅 GPA 4.0 / Top 9%  
-📍 Based in New Taipei, Taiwan  
-📧 Contact: 09shan2005@gmail.com 
-🎨 Art Portfolio (IG): [@dra_sha_iii](https://www.instagram.com/dra_sha_iii)
+📍 新北市
+🎨 插畫帳號(IG): [@dra_sha_iii](https://www.instagram.com/dra_sha_iii)
 
 ---
 
@@ -102,19 +101,9 @@ Hi，我是陳怡珊，就讀輔仁大學資訊管理學系，GPA 4.0，系上�
     </ul>
     
 <hr>
-<h4>💻作品集(side project)</h4>
+<h4>💻專案經驗</h4>
 <ul>
-  <li><a href="資訊管理協會.7z">[程式碼資料夾連結]中華民國資訊管理協會(web前端課程作業)⚡</a></li>
-  <img src="資訊管理協會首頁介面.png">
-  <p>我負責"聯絡我們"、"研究與出版品"、"English"介面及其下拉式之相關介面</p>
-
-  <br>
-  <li><a href="web前端期末作業.7z">[程式碼資料夾連結]儀器預約系統(web前端課程作業)⚡</a></li>
-  <img src="儀器預約系統前端介面.png">
-  <p>我與兩位同學於大一下學期設計的資訊系統前端介面，我們使用HTML, CSS, Bootstrape, Github, JavaScript，模擬預約網站的介面，分工是每個人負責兩個導覽列選項之相關內容。我負責"預約"介面及其下拉式選單: "預約儀器"、"目前預約儀器"之介面設計以及"繳費"介面及其下拉式選單: "繳費情況"、"我要繳費"之介面設計</p>
-
-
-  <br>
+  
   <li><a href="產業實習平台(php,mysql,htm).7z">[程式碼資料夾連結]產業實習平台(Web程式設計課程作業)⚡</a><img src="圖01.png"></li>
   <p>我與一位同學於大二上學期一起設計的資訊系統，我們使用PHP, mySQL, HTML, Xampp, Github, Bootstrape, JavaScript，功能主要圍繞新增、修改、刪除、查詢。</p>
 
