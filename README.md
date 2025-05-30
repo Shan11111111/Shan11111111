@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 🎓 Fu Jen Catholic University – Dept. of Information Management  
 🏅 GPA 4.0 / Top 9%  
 📍 Based in New Taipei, Taiwan  
-📧 Contact: [commission or school email here]  
+📧 Contact:09shan2005@gmail.com
 🎨 Art Portfolio (IG): [@dra_sha_iii](https://www.instagram.com/dra_sha_iii)
 
 ---
