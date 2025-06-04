@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 🎓 Fu Jen Catholic University – Dept. of Information Management  
 🏅 GPA 4.0 / Top 9%  
-📍 新北市 
+📍 新北市 <br>
 🎨 插畫帳號(IG): [@dra_sha_iii](https://www.instagram.com/dra_sha_iii)
 
 ---
