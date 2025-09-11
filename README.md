@@ -119,12 +119,15 @@ Hi，我是陳怡珊，就讀輔仁大學資訊管理學系，GPA 4.0，系上�
 
 **使用技術**
 
-｜後端｜PHP
-｜資料庫｜MySQL
-｜前端｜HTML5、CSS3、JavaScript、Bootstrap
-｜部署｜XAMPP
-｜圖表製作｜Chart.js
-｜共編合作與版本控制｜GitHub、Git
+| 類別       | 技術                                 |
+|------------|-----------------------------------------|
+| 後端開發   | PHP、MySQL、Session 控制               |
+| 前端開發   | HTML5、CSS3、JavaScript、Bootstrap     |
+| 資料庫設計 | ER 模型、SQL 查詢                       |
+| 動態介面   | 動畫、轉場設計               |
+| 專案管理   | Git、GitHub、文件撰寫                   |
+| 開發環境   | XAMPP (Apache + MySQL)                  |
+|圖表製作|Chart.js
 
 <a href="https://github.com/Shan11111111/Website_assignment/blob/main/README.md">查看GitHub⚡</a>
 
