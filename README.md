@@ -117,13 +117,14 @@ Hi，我是陳怡珊，就讀輔仁大學資訊管理學系，GPA 4.0，系上�
 - **前端**：利用 Bootstrap 和 JavaScript 設計並美化多角色介面，包括未登入頁面、學生資料上傳、教師表單與管理者儀表板。  
 - **多媒體**：製作等待動畫提升使用者體驗。
 
-**使用技術**  
-PHP
-MySQL
-HTML5、CSS3、JavaScript、Bootstrap
-XAMPP
-Chart.js
-Git
+**使用技術**
+
+｜後端｜PHP
+｜資料庫｜MySQL
+｜前端｜HTML5、CSS3、JavaScript、Bootstrap
+｜部署｜XAMPP
+｜圖表製作｜Chart.js
+｜共編合作與版本控制｜GitHub、Git
 
 <a href="https://github.com/Shan11111111/Website_assignment/blob/main/README.md">查看GitHub⚡</a>
 
@@ -241,7 +242,7 @@ Figma, Galio AI
 
 ## 🔧 使用技術與工具
 
-| 類別       | 技術栈                                  |
+| 類別       | 技術                                 |
 |------------|-----------------------------------------|
 | 後端開發   | PHP、MySQL、Session 控制               |
 | 前端開發   | HTML5、CSS3、JavaScript、Bootstrap     |
