@@ -269,7 +269,7 @@ Figma, Galio AI
 - 遊戲介紹：" 殺死敵人，否則你死"  AR射擊遊戲為玩家在無時間限制情況下，運用有限的生命值對抗手機螢幕周圍出現的敵人，玩家能夠使用手指接觸螢幕上的敵人來殺死敵人或是運用手上的槍（使用NUKE子彈發射裝置填充彈藥）發射子彈來殺死敵人，需要注意，敵人會從一個變成多個，也將更難躲避敵人發出的攻擊泡沫，你可以利用移動手機來躲避敵人向你發射的攻擊泡沫，如果你被擊中，你的生命值將減少，如果生命值為零，代表你已被敵人殺死，則該輪遊戲結束。
 - 介紹簡報：<a href="數位遊戲設計_介紹.pdf.pdf">連結🔗</a>
 - 遊戲檔下載連結：https://drive.google.com/file/d/1TcWy3oN7NR6QvgDyeO-i8KfrTrgdotzc/view?usp=drivesdk
-- GitHub Repository:
+- GitHub Repository:[YourGitHubLinkHere](https://github.com/Shan11111111/game_design)
 </ul>
 
 <br>
