@@ -116,7 +116,7 @@ Hi，我是陳怡珊，就讀輔仁大學資訊管理學系，GPA 4.0，系上�
 - **後端**：實作 Session 權限控制、資料庫設計與管理、教師端企業與職缺 CRUD、管理者端問題回報與統計分析功能。  
 - **前端**：利用 Bootstrap 和 JavaScript 設計並美化多角色介面，包括未登入頁面、學生資料上傳、教師表單與管理者儀表板。  
 - **多媒體**：製作等待動畫提升使用者體驗。
-
+<br>
 **使用技術**
 
 | 類別       | 技術                                 |
@@ -136,8 +136,7 @@ Hi，我是陳怡珊，就讀輔仁大學資訊管理學系，GPA 4.0，系上�
 
 ## PostgreSQL 題庫資料庫設計 — 個人專案
 
-<a href="https://fjuedu-my.sharepoint.com/:v:/g/personal/412402141_m365_fju_edu_tw/EWKVJAHxJy5DolX-hUdaLcQB733R8vNktbI-CLI8vo-PZg?e=xidQqe&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">demo連結⚡</a></li>
-  <img src="erd.png">
+ <img src="erd.png">
   
 **專案背景**  
 資料庫管理課程中學習 MySQL 後，我自主學習 PostgreSQL 並設計一個專門用於題庫的資料庫圖。靈感來自我使用線上題庫系統時，希望能根據題目難易度分類，並引入寫題目或出題的獎勵機制，讓題庫管理更有效率與方便。
