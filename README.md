@@ -229,6 +229,10 @@ Figma, Galio AI
 
 ### 🌐 動畫設計
 - 登入、註冊、附議頁面轉場動畫（進度條 / 輪播 / 轉圈）：100%
+- <img width="762" height="245" alt="image" src="https://github.com/user-attachments/assets/d0ec12b5-614a-4ea8-8398-8e01aee4c8a9" />
+- <img width="1879" height="935" alt="image" src="https://github.com/user-attachments/assets/d5d05d2f-6165-4ad5-8174-7ab71bd6e3c6" />
+
+
 
 ### 🔧系統優化與自動化測試
 - selemium腳本撰寫測試系統
@@ -258,7 +262,7 @@ Figma, Galio AI
 
 ## 🔗 展示連結或 GitHub Repo
 - GitHub Repository: [YourGitHubLinkHere](https://github.com/Shan11111111/system_project)
-- 系統設計文件連結:<a href="系統分析與設計期末文件.pdf">📎</a></p>
+- 系統設計文件連結:<a href="孵仁 Fu Jen for Good(系統分析與設計文件檔).pdf">📎</a></p>
 
 ---
 
