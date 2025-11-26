@@ -33,7 +33,7 @@ Hi，我是陳怡珊，就讀輔仁大學資訊管理學系，GPA 4.0，系上�
 ### 🎯 程式與開發技能
 - **程式語言**：Python（Flask, Selenium, OpenCV）、C、C#、PHP、JavaScript
 - **前端**：HTML5、CSS、JavaScript、Three.js、Bootstrap 5
-- **後端與資料庫**：MySQL、PHP
+- **資料庫**：MySQL、SQL server
 - **自動化測試**：Selenium
 - **版本控制與專案管理**：Git, GitHub, Click Up
 - **AI 工具應用**：ChatGPT、Figma、Galio AI、Riffution
