@@ -316,4 +316,9 @@ HTML5、CSS3、JavaScript（原生 JS）、GitHub Pages 部署
 **專案連結**  
 [https://shan11111111.github.io/web.github.io/home.htm](https://shan11111111.github.io/web.github.io/home.htm)
 
+### LINE FRESH幸福感競賽｜LineBot 開發
+- 官方帳號連結：<a href="https://lin.ee/FpUVVoN">🔗</a>
+
+### AI translator developer
+
 </div>
