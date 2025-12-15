@@ -103,7 +103,7 @@ Hi，我是陳怡珊，就讀輔仁大學資訊管理學系，GPA 4.0，系上�
     <li>2025 經濟部創新智慧大賞參與（soap語音轉文字球體管理系統）</li>
     <li><a href="Ewant 暑期線上課程心得特別獎獎狀.pdf">2025年SOS! 暑期線上學院 通識課程心得徵稿活動 特別獎</a></li>
     <li><a>IMP2025研討會論文獎 收錄錄取</a></li>
-    <li>LINE FRESH幸福感比賽</li>
+    <li>LINE FRESH幸福感比賽<a href="IMG_7052.jpeg">證書連結🔗</a></li>
     </ul>
     
 <hr>
