@@ -124,9 +124,11 @@ Hi，我是陳怡珊，就讀輔仁大學資訊管理學系，GPA 4.0，系上�
 大一的前端設計課程時，與一位同學合作開發一套多角色的學生實習管理系統，功能為組內共同發想，支援學生、教師及管理者使用，包含完整的新增、修改、刪除、查詢（CRUD）功能，以及數據統計與問題回報模組。
 
 **個人貢獻**  
-- **後端**：實作 Session 權限控制、資料庫設計與管理、教師端企業與職缺 CRUD、管理者端問題回報與統計分析功能。  
-- **前端**：利用 Bootstrap 和 JavaScript 設計並美化多角色介面，包括未登入頁面、學生資料上傳、教師表單與管理者儀表板。  
-- **多媒體**：製作等待動畫提升使用者體驗。
+- **後端**：前後端對接API設計、實作 Session 權限控制、資料庫設計與管理、教師端企業與職缺 CRUD、管理者端問題回報與統計分析功能、登入登出註冊、圖表。  
+- **前端**：建置利用 Bootstrap 和 JavaScript ，設計並美化多使用者角色介面，包括未登入頁面、學生資料上傳、教師表單與管理者儀表板。  
+- **多媒體**：融入個人製作「動畫」作為轉場介面提升使用者體驗。
+- **原動畫連結**：https://www.instagram.com/reel/C4XxxUQS7wG/?igsh=MXBybnlvN2s1Z2tueQ==
+- **團隊角色**：在這次專案擔任組長角色，負責專案經理與產品經理的職責
 <br>
 
 **使用技術**
@@ -159,7 +161,7 @@ Hi，我是陳怡珊，就讀輔仁大學資訊管理學系，GPA 4.0，系上�
 - 實作十種複雜查詢以滿足不同的資料檢索需求。
 
 **使用技術**  
-PostgreSQL、SQL
+PostgreSQL
 
 ---
 
@@ -180,9 +182,10 @@ PostgreSQL、SQL
 - 設計使用者登入、登出及註冊介面  
 - 設計通知設定中藍點與白點的切換介面，以提升使用者互動體驗  
 - 設計管理者審核貼文相關的管理介面，強化內容審核流程
+- 在團隊中擔任組長的角色，確認進度如期完成與內容適配評估
 
 **使用工具**  
-Figma, Galio AI
+Figma, Galio AI（提供設計靈感）
 
 ---
 
@@ -193,7 +196,7 @@ Figma, Galio AI
 ## SOAP 語音紀錄助手
 
 **專案簡介**  
-本專案利用 ChatGPT API 連結大型語言模型，能夠錄製語音並自動將內容轉換成 SOAP（Subjective, Objective, Assessment, Plan）格式，並存入資料庫中，提升醫療或輔助記錄的效率。
+本專案與ChatGPT協作，利用 openAI API 實作大型語言模型，利用Whisper API能夠錄製語音並將語音內容轉換成文字內容，切成 SOAP（Subjective, Objective, Assessment, Plan）格式，並存入資料庫中，提升醫療或輔助記錄的效率。
 
 **我的工作內容**  
 - 負責前端錄音功能的開發  
@@ -242,7 +245,6 @@ Figma, Galio AI
 - 登入、註冊、附議頁面轉場動畫（進度條 / 輪播 / 轉圈）：100%
 - <img width="762" height="245" alt="image" src="https://github.com/user-attachments/assets/d0ec12b5-614a-4ea8-8398-8e01aee4c8a9" />
 - <img width="1879" height="935" alt="image" src="https://github.com/user-attachments/assets/d5d05d2f-6165-4ad5-8174-7ab71bd6e3c6" />
-
 
 
 ### 🔧系統優化與自動化測試
@@ -324,7 +326,10 @@ HTML5、CSS3、JavaScript（原生 JS）、GitHub Pages 部署
 
 ### LINE FRESH幸福感競賽｜LineBot 開發
 - 官方帳號連結：<a href="https://lin.ee/FpUVVoN">🔗</a>
+- 技術使用
 
 ### AI translator developer
+**專案敘述**
+- 串連openAI api
 
 </div>
