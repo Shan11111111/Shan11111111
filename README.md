@@ -289,7 +289,7 @@ Figma, Galio AI（提供設計靈感）
 - <img width="490" height="703" alt="image" src="https://github.com/user-attachments/assets/c66afead-cf97-4e2a-9c77-e22516a1722f" />
 
 
-- 介紹簡報：<a href="數位遊戲設計_介紹.pdf.pdf">連結🔗</a>
+- 介紹簡報：<a href="https://www.canva.com/design/DAGqlGZ4Jgg/_omA_8qdv0kiF3chcm0oEg/view?utm_content=DAGqlGZ4Jgg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he447c29e05">連結🔗</a>
 - 遊戲檔下載連結：https://drive.google.com/file/d/1TcWy3oN7NR6QvgDyeO-i8KfrTrgdotzc/view?usp=drivesdk
 - GitHub Repository:[YourGitHubLinkHere](https://github.com/Shan11111111/game_design)
 </ul>
