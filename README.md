@@ -196,7 +196,7 @@ Figma, Galio AI（提供設計靈感）
 ## SOAP 語音紀錄助手
 
 **專案簡介**  
-本專案與ChatGPT協作，利用 openAI API 實作大型語言模型，利用Whisper API能夠錄製語音並將語音內容轉換成文字內容，切成 SOAP（Subjective, Objective, Assessment, Plan）格式，並存入資料庫中，提升醫療或輔助記錄的效率。
+本專案與指導教授配合，我運用ChatGPT進行協作，利用 openAI API 實作大型語言模型，利用Whisper API能夠錄製語音並將語音內容轉換成文字內容，切成 SOAP（Subjective, Objective, Assessment, Plan）格式，並存入資料庫中，提升醫療或輔助記錄的效率。
 
 **我的工作內容**  
 - 負責前端錄音功能的開發  
@@ -324,12 +324,12 @@ HTML5、CSS3、JavaScript（原生 JS）、GitHub Pages 部署
 **專案連結**  
 [https://shan11111111.github.io/web.github.io/home.htm](https://shan11111111.github.io/web.github.io/home.htm)
 
-### LINE FRESH幸福感競賽｜LineBot 開發
+### LINE FRESH幸福感競賽|LineBot 開發|GCP實戰應用
 - 官方帳號連結：<a href="https://lin.ee/FpUVVoN">🔗</a>
-- 技術使用
+- 技術使用：Python, LINE api message, GCP部署(webhook), Firebase
 
-### AI translator developer
+### AI translator developer｜Chrome 擴充套件製作
 **專案敘述**
-- 串連openAI api
+- 串連openAI api實作英翻中的Chrome Extension小應用，完成在網頁上選取字框，翻譯成中文翻譯，讓使用者對照加速學習的學習小工具
 
 </div>
