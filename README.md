@@ -327,6 +327,16 @@ HTML5、CSS3、JavaScript（原生 JS）、GitHub Pages 部署
 ### LINE FRESH幸福感競賽|LineBot 開發|GCP實戰應用
 - 官方帳號連結：<a href="https://lin.ee/FpUVVoN">🔗</a>
 - 技術使用：Python, LINE api message, GCP部署(webhook), Firebase
+| 主題 | 內容 |
+| --- | --- |
+| 資料與狀態儲存 | 透過 Firebase Admin SDK 或 Google Cloud SDK 讀寫，儲存使用者訊息、狀態或紀錄。 |
+| 圖片存放 | 圖片存放在 **Google Cloud Storage (GCS)**。建立 GCS Bucket，命名為 `flow-onboarding-images`，並將圖片上傳到此 Bucket。 |
+| 存取權限設定 | 設定 **IAM** 或 **Bucket Policy**，讓檔案可公開讀取，供系統或前端直接存取圖片。 |
+| 實作架構概述 | LINE Bot 後端部署在 **GCP**，資料存放在 **Firebase Firestore**，圖片放在 **Google Cloud Storage (GCS)**，並設定為公開存取。 |
+| LINE 官方加入連結 | LINE 官方網站加入連結：`https://lin.ee/FpUVVoN`。 |
+| LINE Bot 後端 | 使用 **Cloud Functions** 或 **Cloud Run** 部署 Bot Server，接收 LINE Messaging API 的 Webhook，處理訊息並存取 Firestore / GCS。 |
+
+
 
 ### AI translator developer｜Chrome 擴充套件製作
 **專案敘述**
