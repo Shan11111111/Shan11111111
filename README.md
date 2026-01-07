@@ -327,6 +327,7 @@ HTML5、CSS3、JavaScript（原生 JS）、GitHub Pages 部署
 ### LINE FRESH幸福感競賽|LineBot 開發|GCP實戰應用
 - 官方帳號連結：<a href="https://lin.ee/FpUVVoN">🔗</a>
 - 技術使用：Python, LINE api message, GCP部署(webhook), Firebase
+
 | 主題 | 內容 |
 | --- | --- |
 | 資料與狀態儲存 | 透過 Firebase Admin SDK 或 Google Cloud SDK 讀寫，儲存使用者訊息、狀態或紀錄。 |
