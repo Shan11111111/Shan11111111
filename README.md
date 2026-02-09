@@ -142,7 +142,7 @@ Hi，我是陳怡珊，就讀輔仁大學資訊管理學系，GPA 4.0，系上�
 | 專案管理   | Git、GitHub、文件撰寫                   |
 | 開發環境   | XAMPP (Apache + MySQL)                  |
 |圖表製作|Chart.js|
-
+<a href="https://drive.google.com/file/d/1jug7MXeWjATfMo42YbmA3tWiOkmBhj5x/view?usp=sharing">實習系統介紹影片</a>
 <a href="https://github.com/Shan11111111/Website_assignment/blob/main/README.md">查看GitHub⚡</a>
 
   <br>
