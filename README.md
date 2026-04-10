@@ -203,7 +203,8 @@ Figma, Galio AI（提供設計靈感）
 
 **專案成果**  
 - 製作完整的發想設計介紹影片展示專案設計系統的期望功能及流程  
-- 影片連結：[點此觀看 Demo 影片](https://youtu.be/P-S-ICTIxD8)
+- soap小助手-個人小作品 side project demo: ［點此查看 demo 影片］（https://fjuedu-my.sharepoint.com/:v:/g/personal/412402141_m365_fju_edu_tw/IQC3vDLn_CglT6KFmw_0F0GVAT3Oa2sM-IF6CiJbh6DoPvQ?e=uNxtul）
+- 比賽整合影片連結：[點此觀看 Demo 影片](https://youtu.be/P-S-ICTIxD8)
 
 ---
 
