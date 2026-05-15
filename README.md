@@ -65,7 +65,7 @@ Hi，我是陳怡珊，大學主修輔仁大學資訊管理學系，GPA 平均 4
 
 ### 📚 相關課程 Relevant Courses
 
-- **資訊類**: Web程式設計(PHP)、Web前端設計(HTML+CSS+BootStrape5+JavaScript)、資料結構(Python)、資料庫管理(MySQL)、程式設計概論(Python)、進階程式設計(Python+Java)、系統設計與開發(Xampp+PHP+Selenium+HTML+CSS+BootStrape5)、作業系統、計算機概論、大語言模型(FastAOI+Qdrant+SQL server+OpenAI api embedding+React+TypeScript+CSS)、C語言設計、資料通訊與網路（通訊P2P實作小專案）、程式設計（一）（c語言）、程式設計（二）(c++)、資訊管理概論、雲端平台應用概論(LINE bot開發小專案）、空間資訊管理、資訊系統專題(一)、資訊系統專題(二)、數位邏輯設計
+- **資訊類**: Web程式設計(PHP)、Web前端設計(HTML+CSS+BootStrape5+JavaScript)、資料結構(Python)、資料庫管理(MySQL)、程式設計概論(Python)、進階程式設計(Python+Java)、系統設計與開發(Xampp+PHP+Selenium+HTML+CSS+BootStrape5)、作業系統、計算機概論、大語言模型(FastAPI+Qdrant+SQL server+OpenAI api embedding+React+TypeScript+CSS)、C語言設計、資料通訊與網路（通訊P2P實作小專案）、程式設計（一）（c語言）、程式設計（二）(c++)、資訊管理概論、雲端平台應用概論(LINE bot開發小專案）、空間資訊管理、資訊系統專題(一)、資訊系統專題(二)、數位邏輯設計
 - **數學類**: 微積分（上/下）、線性代數、離散數學（一）、離散數學（二）
 - **設計類**: 數位遊戲製作(Unity AR)、施工圖與工程管理
 - **管理類**: 企業管理概論、統計學、經濟學、會計學、職場軟實力（行銷企劃書撰寫與報告）、管理資訊系統、資訊管理導論
