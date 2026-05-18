@@ -35,11 +35,14 @@ Hi，我是陳怡珊，大學主修輔仁大學資訊管理學系，GPA 平均 4
 ### 🎯 程式技能與開發經驗
 - **後端程式語言**：Python（Flask, Selenium, OpenCV, FastAPI）、C、C#、PHP
 - **前端程式語言**：HTML5、CSS、JavaScript、Three.js、Bootstrap 5、React.js
-- **資料庫**：MySQL、SQL server、PostgreSQL、Qdrant
+- **資料庫管理**：MySQL、SQL Server、PostgreSQL
+- **向量資料庫**：Qdrant
+- **電腦視覺**：YOLO、OpenCV
+- **大語言模型**：OpenAI、RAG架構
 - **部署**：IIS部署
 - **自動化測試腳本撰寫**：Selenium
 - **版本控制與專案管理**：Git, GitHub, Click Up
-- **AI 工具應用**：ChatGPT、Figma、Galio AI、Riffution、Perplexity、Gemini、Claude
+- **AI 輔助開發**：ChatGPT、Figma、Galio AI、Riffution、Perplexity、Gemini、Claude
 - **開發工具**：Visual Stdio Code、Code::blocks、Unity (2D/3D)、Visual Studio 2022
 
 ### 🎨 藝術與多媒體創作
