@@ -405,7 +405,7 @@ HTML5、CSS3、JavaScript、Leaflet.js、GeoJSON、Geolocation API、Vibration A
 首頁 → 30 秒導覽 → 主地圖 → 五條河流互動 → GPS/示範位置 → 河流介紹與水位 → 沿河導覽 → 景點徽章 → 個人介面 → 水位警戒展示。
 <img width="1273" height="725" alt="image" src="https://github.com/user-attachments/assets/f60e21ba-99eb-4909-9bc2-4e3a3f2be381" />
 
- <a href="[https://github.com/Shan11111111/taipei_river_system](https://github.com/Shan11111111/taipei-river-system)">🔗 查看該專案的 GitHub Respository</a>
+ <a href="https://github.com/Shan11111111/taipei_river_system">🔗 查看該專案的 GitHub Respository</a>
 
 
 
