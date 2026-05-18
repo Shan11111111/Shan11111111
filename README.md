@@ -114,6 +114,39 @@ Hi，我是陳怡珊，大學主修輔仁大學資訊管理學系，GPA 平均 4
 <hr>
 <h4>💻專案經驗</h4>
 <ul>
+## GalaBone:骨骼互動學習平台(畢業資訊專題專案)
+<img width="1267" height="688" alt="image" src="https://github.com/user-attachments/assets/21aeb4cc-4a62-430a-8d65-2e7edd68298e" />
+**專案簡介** 
+該專案為指導教授的計畫延伸，大三一整年與醫院醫生進行合作產學討論需求，後因為系統模型處理與醫生需求深度不足，以及IRB臨床影像需求等時間影響，後期改以國高中生為主要對象，系統結合三大技術:YOLO自訓練骨骼辨識模型、AI問答:RAG架構(Qdrant+PubMed+SOAP輔醫臨床去識別醫囑表)、3D blender模型，分為三類主要學習模式的系統，為國高中生建立讓他們在骨頭學習道路上能夠學得開心，提升陪伴感與學習興趣。
+
+**個人貢獻**  
+- **資安**：密碼以bcrpt加密與JWT登入授權。  
+- **後端**：資料庫設計與建置、RAG邏輯設計與檢索優化(負責Qdrant、SOAP的檢索)、影像圖片庫、註冊登入驗證登出。  
+- **多媒體**：融入個人繪製「圖像」與製作相關轉場動畫，作為介面提升使用者體驗。
+- **部屬**：部屬系統於IIS提供給使用者測試。
+- **領導與整合**：支援其他組員處理技術上的需求與提出解決方案。
+- **評估**:評估辨識模型的效能與技術支援。
+- **IRB申請**:申請計畫與相關IRB申請。
+- **團隊角色**：在這次專案擔任組長角色，負責專案經理與產品經理的職責。
+
+**使用技術**
+
+| 類別       | 技術                                 |
+|------------|-----------------------------------------|
+| 後端開發   | FastAPI、Python、Uvicorn              |
+| 前端開發   | Next.js、React、Tailwind CSS、React Three Fiber、Three.js      |
+| 關聯式資料庫 | Microsoft SQL Server                    |
+| 向量資料庫   | docker Qdrant              |
+| AI影像辨識   | YOLO / Ultralytics             |
+| AI問答   | OpenAI API、RAG 架構            |
+| 3D 顯示    | GLB / Blender 模型、Mesh 對應資料表             |
+| 作業系統    | Windows           |
+| 部屬方式   | IIS 反向代理整合前後端服務                   |
+| 開發環境   | Virtual Studio Code                  |
+
+<a href="https://github.com/Shan11111111/114_Project">查看GitHub⚡</a>
+
+<br>
 
 ## 學生實習資訊管理系統 — 團隊專案（PHP / MySQL / Bootstrap / JavaScript）
 
@@ -130,6 +163,7 @@ Hi，我是陳怡珊，大學主修輔仁大學資訊管理學系，GPA 平均 4
 - **團隊角色**：在這次專案擔任組長角色，負責專案經理與產品經理的職責
 <br>
 
+
 **使用技術**
 
 | 類別       | 技術                                 |
@@ -139,7 +173,7 @@ Hi，我是陳怡珊，大學主修輔仁大學資訊管理學系，GPA 平均 4
 | 資料庫設計 | ER 模型關聯設計、SQL 查詢                       |
 | 動態介面   | 動畫影片置入、轉場設計               |
 | 專案管理   | Git、GitHub、文件撰寫                   |
-| 開發環境   | XAMPP (Apache + MySQL)                  |
+| 開發環境   | VS code、XAMPP (Apache + MySQL)                  |
 |圖表製作|Chart.js|
 <a href="https://drive.google.com/file/d/1jug7MXeWjATfMo42YbmA3tWiOkmBhj5x/view?usp=sharing">實習系統介紹影片</a>
 <a href="https://github.com/Shan11111111/Website_assignment/blob/main/README.md">查看GitHub⚡</a>
@@ -301,7 +335,7 @@ Figma, Galio AI（提供設計靈感）
  <h3>Eat Dot – Unity 小遊戲</h3>
   <img src="吃點點起始介面.png">
   <p>30 秒內吃完 5 顆紅點即勝利的小球遊戲，練習 Unity 2D 物理控制、UI 設計與互動。</p>
-  <a href="https://github.com/Shan11111111/my_unity_2dgame_eat_dot">🔗 查看 GitHub</a>
+  <a href="https://github.com/Shan11111111/my_unity_2dgame_eat_dot">🔗 查看該專案的 GitHub Respository</a>
 </div>
 <br>
 <br>
@@ -342,5 +376,36 @@ HTML5、CSS3、JavaScript（原生 JS）、GitHub Pages 部署
 ### AI translator developer｜Chrome 擴充套件製作
 **專案敘述**
 - 串連openAI api實作英翻中的Chrome Extension小應用，完成在網頁上選取字框，翻譯成中文翻譯，讓使用者對照加速學習的學習小工具
+- <img width="453" height="229" alt="image" src="https://github.com/user-attachments/assets/5c9fb98b-a909-4c84-ae9f-076e45415c79" />
+
+
+
+### GIS系統｜五大水系導覽數位系統:以河流角度
+**專案敘述**
+- 本系統以大台北五大水系為主題，結合 Web GIS、定位服務、文化導覽、防災警示與遊戲化徽章機制。系統跳脫行政區觀點，以河流流域作為空間組織核心，讓使用者能從河流視角認識城市歷史、觀光景點與水位安全資訊。
+
+## 主要特色
+1. 以五大水系作為導覽主軸。
+2. 以動態流動線呈現河流視覺。
+3. 結合 GPS 判斷使用者接近哪條河。
+4. 點擊河流可查看歷史介紹與水位安全。
+5. 沿河導覽模式提供類似街景走路的體驗。
+6. 景點接近時會有震動框與手機震動提示。
+7. 到達景點後可取得徽章。
+8. 水位異常時系統會跳出警示。
+9. 提供圖層控制、風險熱區與古河道示意。
+10. 提供個人探索紀錄與匯出功能。
+
+## 使用技術
+HTML5、CSS3、JavaScript、Leaflet.js、GeoJSON、Geolocation API、Vibration API、SpeechSynthesis、localStorage。
+
+## 展示流程
+首頁 → 30 秒導覽 → 主地圖 → 五條河流互動 → GPS/示範位置 → 河流介紹與水位 → 沿河導覽 → 景點徽章 → 個人介面 → 水位警戒展示。
+<img width="1273" height="725" alt="image" src="https://github.com/user-attachments/assets/f60e21ba-99eb-4909-9bc2-4e3a3f2be381" />
+
+ <a href="https://github.com/Shan11111111/taipei_river_system">🔗 查看該專案的 GitHub Respository</a>
+
+
+
 
 </div>
