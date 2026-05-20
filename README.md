@@ -394,7 +394,7 @@ HTML5、CSS3、JavaScript（原生 JS）、GitHub Pages 部署
 **專案敘述**
 - 本系統以大台北五大水系為主題，結合 Web GIS、定位服務、文化導覽、防災警示與遊戲化徽章機制。系統跳脫行政區觀點，以河流流域作為空間組織核心，讓使用者能從河流視角認識城市歷史、觀光景點與水位安全資訊。
 
-## 主要特色
+**主要特色**
 1. 以五大水系作為導覽主軸。
 2. 以動態流動線呈現河流視覺。
 3. 結合 GPS 判斷使用者接近哪條河。
@@ -406,10 +406,10 @@ HTML5、CSS3、JavaScript（原生 JS）、GitHub Pages 部署
 9. 提供圖層控制、風險熱區與古河道示意。
 10. 提供個人探索紀錄與匯出功能。
 
-## 使用技術
+**使用技術**
 HTML5、CSS3、JavaScript、Leaflet.js、GeoJSON、Geolocation API、Vibration API、SpeechSynthesis、localStorage。
 
-## 展示流程
+**展示流程**
 首頁 → 30 秒導覽 → 主地圖 → 五條河流互動 → GPS/示範位置 → 河流介紹與水位 → 沿河導覽 → 景點徽章 → 個人介面 → 水位警戒展示。
 <img width="1273" height="725" alt="image" src="https://github.com/user-attachments/assets/f60e21ba-99eb-4909-9bc2-4e3a3f2be381" />
 
