@@ -424,6 +424,6 @@ HTML5、CSS3、JavaScript（原生 JS）、GitHub Pages 部署
 ### AI translator developer｜Chrome 擴充套件製作
 **專案敘述**
 - 串連openAI api實作英翻中的Chrome Extension小應用，完成在網頁上選取字框，翻譯成中文翻譯，讓使用者對照加速學習的學習小工具
-- <img width="453" height="229" alt="image" src="https://github.com/user-attachments/assets/5c9fb98b-a909-4c84-ae9f-076e45415c79" />
+<img width="453" height="229" alt="image" src="https://github.com/user-attachments/assets/5c9fb98b-a909-4c84-ae9f-076e45415c79" />
 
 </div>
