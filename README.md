@@ -123,7 +123,7 @@ Hi，我是陳怡珊，大學主修輔仁大學資訊管理學系，GPA 平均 4
 <h4>💻專案經驗</h4>
 <ul>
   
-## GalaBone:骨骼互動學習平台(畢業資訊專題專案)
+## GalaBone:骨骼互動學習平台(畢業資訊專題團隊專案)
 <img width="1267" height="688" alt="image" src="https://github.com/user-attachments/assets/21aeb4cc-4a62-430a-8d65-2e7edd68298e" />
 
 **專案簡介** 
@@ -163,6 +163,150 @@ Hi，我是陳怡珊，大學主修輔仁大學資訊管理學系，GPA 平均 4
 <a href="https://github.com/Shan11111111/114_Project">查看GitHub⚡</a>
 
 <br>
+
+## 建言與募資資訊系統（團隊專案）
+
+![image](https://github.com/user-attachments/assets/a2a6bfb9-f7e4-4bf6-bb6b-6c2dc6415312)
+**專案簡介**  
+本系統旨在提供校內師生一個線上建言及募資的平台，支援建言提交、附議、募資提案審核與管理，涵蓋多種使用者角色（學生、教師、管理者、系所處所），並整合前後端動態轉場效果，提升使用體驗。
+
+
+### 🔐 後端與資料庫設計
+- `Session` 控制與驗證機制：70%
+- 建言提交功能後端實作：100%
+- ERD 資料庫設計與規劃：40%
+- 測試報告撰寫：20%
+- 系統登入、登出、註冊流程：後端 100%
+
+### 🛠 系統邏輯與功能實作
+- 建言表單提交、查閱、附議後流程：100%
+- 附議達標後移轉至提案流程：100%
+- 系統管理者審核募資提案 / 退回提案：100%
+- 處所建立募資提案：100%
+- 系統管理者建言管理模組：100%
+- 系所人員管理模組：100%
+- 募資表單提交與瀏覽後端邏輯：100%
+- 延期申請與審核流程：100%
+
+### 💬 留言與討論區功能
+- 建言留言區瀏覽與留言後端實作：100%
+- 募資留言區瀏覽與留言後端實作：100%
+
+### 🌐 動畫設計
+- 登入、註冊、附議頁面轉場動畫（進度條 / 輪播 / 轉圈）：100%
+- <img width="762" height="245" alt="image" src="https://github.com/user-attachments/assets/d0ec12b5-614a-4ea8-8398-8e01aee4c8a9" />
+- <img width="1879" height="935" alt="image" src="https://github.com/user-attachments/assets/d5d05d2f-6165-4ad5-8174-7ab71bd6e3c6" />
+
+
+### 🔧系統優化與自動化測試
+- selemium腳本撰寫測試系統
+
+
+### 📄 文件撰寫
+- 第一章：發展背景與動機：100%
+- 第一章：系統發展目的：100%
+- 第一章：競品分析：80%
+- 第三章：資料庫設計：100%
+- 第四章：系統流程設計：40%
+
+---
+
+## 🔧 使用技術與工具
+
+| 類別       | 技術                                 |
+|------------|-----------------------------------------|
+| 後端開發   | PHP、MySQL、Session 控制               |
+| 前端開發   | HTML5、CSS3、JavaScript、Bootstrap     |
+| 資料庫設計 | ER 模型、SQL 查詢                       |
+| 動態介面   | JavaScript 動畫、轉場設計               |
+| 專案管理   | Git、GitHub、文件撰寫                   |
+| 開發環境   | XAMPP (Apache + MySQL)                  |
+
+---
+
+## 🔗 展示連結或 GitHub Repo
+- GitHub Repository: [YourGitHubLinkHere](https://github.com/Shan11111111/system_project)
+- 系統設計文件連結:<a href="孵仁 Fu Jen for Good(系統分析與設計文件檔).pdf">📎</a></p>
+
+---
+
+歡迎聯絡了解更多專案細節與技術細節。
+
+---
+## 🎮 射死敵人，否則你死 Unity 3D遊戲開發（團隊專案）
+- 遊戲介紹：" 殺死敵人，否則你死"  AR射擊遊戲為玩家在無時間限制情況下，運用有限的生命值對抗手機螢幕周圍出現的敵人，玩家能夠使用手指接觸螢幕上的敵人來殺死敵人或是運用手上的槍（使用NUKE子彈發射裝置填充彈藥）發射子彈來殺死敵人，需要注意，敵人會從一個變成多個，也將更難躲避敵人發出的攻擊泡沫，你可以利用移動手機來躲避敵人向你發射的攻擊泡沫，如果你被擊中，你的生命值將減少，如果生命值為零，代表你已被敵人殺死，則該輪遊戲結束。
+- <img width="533" height="757" alt="image" src="https://github.com/user-attachments/assets/f71ca753-db82-47f6-98c2-d9cde4bc6a9f" />
+- <img width="863" height="561" alt="image" src="https://github.com/user-attachments/assets/83208be2-241d-458a-b055-cb9124179900" />
+- <img width="490" height="703" alt="image" src="https://github.com/user-attachments/assets/c66afead-cf97-4e2a-9c77-e22516a1722f" />
+
+
+- 介紹簡報：<a href="https://www.canva.com/design/DAGqlGZ4Jgg/_omA_8qdv0kiF3chcm0oEg/view?utm_content=DAGqlGZ4Jgg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he447c29e05">連結🔗</a>
+- 遊戲檔下載連結：https://drive.google.com/file/d/1TcWy3oN7NR6QvgDyeO-i8KfrTrgdotzc/view?usp=drivesdk
+- GitHub Repository:[YourGitHubLinkHere](https://github.com/Shan11111111/game_design)
+
+<br>
+
+
+## SOAP 語音紀錄助手(個人專案）
+
+**專案簡介**  
+本專案與指導教授配合，我運用ChatGPT進行協作，利用 openAI API 實作大型語言模型，利用Whisper API能夠錄製語音並將語音內容轉換成文字內容，切成 SOAP（Subjective, Objective, Assessment, Plan）格式，並存入資料庫中，提升醫療或輔助記錄的效率。
+
+**我的工作內容**  
+- 負責前端錄音功能的開發  
+- 負責後端資料庫存取及 SOAP 資料結構存儲  
+- 與指導教授合作，整合視覺化介面與流程
+
+**專案成果**  
+- 製作完整的發想設計介紹影片展示專案設計系統的期望功能及流程  
+- soap小助手-個人小作品 side project demo: ［點此查看 demo 影片］（https://fjuedu-my.sharepoint.com/:v:/g/personal/412402141_m365_fju_edu_tw/IQC3vDLn_CglT6KFmw_0F0GVAT3Oa2sM-IF6CiJbh6DoPvQ?e=uNxtul）
+- 比賽整合影片連結：[點此觀看 Demo 影片](https://youtu.be/P-S-ICTIxD8)
+
+---
+
+歡迎聯繫索取更多專案細節與程式碼。
+
+
+### LINE FRESH幸福感競賽|LineBot 開發|GCP實戰應用
+- 官方帳號連結：<a href="https://lin.ee/FpUVVoN">🔗</a>
+- 技術使用：Python, LINE api message, GCP部署(webhook), Firebase
+
+| 主題 | 內容 |
+| --- | --- |
+| 資料與狀態儲存 | 透過 Firebase Admin SDK 或 Google Cloud SDK 讀寫，儲存使用者訊息、狀態或紀錄。 |
+| 圖片存放 | 圖片存放在 **Google Cloud Storage (GCS)**。建立 GCS Bucket，命名為 `flow-onboarding-images`，並將圖片上傳到此 Bucket。 |
+| 存取權限設定 | 設定 **IAM** 或 **Bucket Policy**，讓檔案可公開讀取，供系統或前端直接存取圖片。 |
+| 實作架構概述 | LINE Bot 後端部署在 **GCP**，資料存放在 **Firebase Firestore**，圖片放在 **Google Cloud Storage (GCS)**，並設定為公開存取。 |
+| LINE 官方加入連結 | LINE 官方網站加入連結：`https://lin.ee/FpUVVoN`。 |
+| LINE Bot 後端 | 使用 **Cloud Functions** 或 **Cloud Run** 部署 Bot Server，接收 LINE Messaging API 的 Webhook，處理訊息並存取 Firestore / GCS。 |
+
+
+### GIS系統｜五大水系導覽數位系統:以河流角度
+**專案敘述**
+- 本系統以大台北五大水系為主題，結合 Web GIS、定位服務、文化導覽、防災警示與遊戲化徽章機制。系統跳脫行政區觀點，以河流流域作為空間組織核心，讓使用者能從河流視角認識城市歷史、觀光景點與水位安全資訊。
+
+**主要特色**
+1. 以五大水系作為導覽主軸。
+2. 以動態流動線呈現河流視覺。
+3. 結合 GPS 判斷使用者接近哪條河。
+4. 點擊河流可查看歷史介紹與水位安全。
+5. 沿河導覽模式提供類似街景走路的體驗。
+6. 景點接近時會有震動框與手機震動提示。
+7. 到達景點後可取得徽章。
+8. 水位異常時系統會跳出警示。
+9. 提供圖層控制、風險熱區與古河道示意。
+10. 提供個人探索紀錄與匯出功能。
+
+**使用技術**
+HTML5、CSS3、JavaScript、Leaflet.js、GeoJSON、Geolocation API、Vibration API、SpeechSynthesis、localStorage。
+
+**展示流程**
+首頁 → 30 秒導覽 → 主地圖 → 五條河流互動 → GPS/示範位置 → 河流介紹與水位 → 沿河導覽 → 景點徽章 → 個人介面 → 水位警戒展示。
+<img width="1273" height="725" alt="image" src="https://github.com/user-attachments/assets/f60e21ba-99eb-4909-9bc2-4e3a3f2be381" />
+
+ <a href="https://github.com/Shan11111111/taipei-river-system">🔗 查看該專案的 GitHub Respository</a>
+
+
 
 ## 學生實習資訊管理系統 — 團隊專案（PHP / MySQL / Bootstrap / JavaScript）
 
@@ -242,111 +386,12 @@ Figma, Galio AI（提供設計靈感）
   
 <br>
 
-## SOAP 語音紀錄助手
 
-**專案簡介**  
-本專案與指導教授配合，我運用ChatGPT進行協作，利用 openAI API 實作大型語言模型，利用Whisper API能夠錄製語音並將語音內容轉換成文字內容，切成 SOAP（Subjective, Objective, Assessment, Plan）格式，並存入資料庫中，提升醫療或輔助記錄的效率。
-
-**我的工作內容**  
-- 負責前端錄音功能的開發  
-- 負責後端資料庫存取及 SOAP 資料結構存儲  
-- 與指導教授合作，整合視覺化介面與流程
-
-**專案成果**  
-- 製作完整的發想設計介紹影片展示專案設計系統的期望功能及流程  
-- soap小助手-個人小作品 side project demo: ［點此查看 demo 影片］（https://fjuedu-my.sharepoint.com/:v:/g/personal/412402141_m365_fju_edu_tw/IQC3vDLn_CglT6KFmw_0F0GVAT3Oa2sM-IF6CiJbh6DoPvQ?e=uNxtul）
-- 比賽整合影片連結：[點此觀看 Demo 影片](https://youtu.be/P-S-ICTIxD8)
-
----
-
-歡迎聯繫索取更多專案細節與程式碼。
-
-
-
-## 建言與募資資訊系統
-
-![image](https://github.com/user-attachments/assets/a2a6bfb9-f7e4-4bf6-bb6b-6c2dc6415312)
-**專案簡介**  
-本系統旨在提供校內師生一個線上建言及募資的平台，支援建言提交、附議、募資提案審核與管理，涵蓋多種使用者角色（學生、教師、管理者、系所處所），並整合前後端動態轉場效果，提升使用體驗。
-
-
-### 🔐 後端與資料庫設計
-- `Session` 控制與驗證機制：70%
-- 建言提交功能後端實作：100%
-- ERD 資料庫設計與規劃：40%
-- 測試報告撰寫：20%
-- 系統登入、登出、註冊流程：後端 100%
-
-### 🛠 系統邏輯與功能實作
-- 建言表單提交、查閱、附議後流程：100%
-- 附議達標後移轉至提案流程：100%
-- 系統管理者審核募資提案 / 退回提案：100%
-- 處所建立募資提案：100%
-- 系統管理者建言管理模組：100%
-- 系所人員管理模組：100%
-- 募資表單提交與瀏覽後端邏輯：100%
-- 延期申請與審核流程：100%
-
-### 💬 留言與討論區功能
-- 建言留言區瀏覽與留言後端實作：100%
-- 募資留言區瀏覽與留言後端實作：100%
-
-### 🌐 動畫設計
-- 登入、註冊、附議頁面轉場動畫（進度條 / 輪播 / 轉圈）：100%
-- <img width="762" height="245" alt="image" src="https://github.com/user-attachments/assets/d0ec12b5-614a-4ea8-8398-8e01aee4c8a9" />
-- <img width="1879" height="935" alt="image" src="https://github.com/user-attachments/assets/d5d05d2f-6165-4ad5-8174-7ab71bd6e3c6" />
-
-
-### 🔧系統優化與自動化測試
-- selemium腳本撰寫測試系統
-
-
-### 📄 文件撰寫
-- 第一章：發展背景與動機：100%
-- 第一章：系統發展目的：100%
-- 第一章：競品分析：80%
-- 第三章：資料庫設計：100%
-- 第四章：系統流程設計：40%
-
----
-
-## 🔧 使用技術與工具
-
-| 類別       | 技術                                 |
-|------------|-----------------------------------------|
-| 後端開發   | PHP、MySQL、Session 控制               |
-| 前端開發   | HTML5、CSS3、JavaScript、Bootstrap     |
-| 資料庫設計 | ER 模型、SQL 查詢                       |
-| 動態介面   | JavaScript 動畫、轉場設計               |
-| 專案管理   | Git、GitHub、文件撰寫                   |
-| 開發環境   | XAMPP (Apache + MySQL)                  |
-
----
-
-## 🔗 展示連結或 GitHub Repo
-- GitHub Repository: [YourGitHubLinkHere](https://github.com/Shan11111111/system_project)
-- 系統設計文件連結:<a href="孵仁 Fu Jen for Good(系統分析與設計文件檔).pdf">📎</a></p>
-
----
-
-歡迎聯絡了解更多專案細節與技術細節。
-
----
-## 🎮 射死敵人，否則你死 Unity 3D遊戲開發
-- 遊戲介紹：" 殺死敵人，否則你死"  AR射擊遊戲為玩家在無時間限制情況下，運用有限的生命值對抗手機螢幕周圍出現的敵人，玩家能夠使用手指接觸螢幕上的敵人來殺死敵人或是運用手上的槍（使用NUKE子彈發射裝置填充彈藥）發射子彈來殺死敵人，需要注意，敵人會從一個變成多個，也將更難躲避敵人發出的攻擊泡沫，你可以利用移動手機來躲避敵人向你發射的攻擊泡沫，如果你被擊中，你的生命值將減少，如果生命值為零，代表你已被敵人殺死，則該輪遊戲結束。
-- <img width="533" height="757" alt="image" src="https://github.com/user-attachments/assets/f71ca753-db82-47f6-98c2-d9cde4bc6a9f" />
-- <img width="863" height="561" alt="image" src="https://github.com/user-attachments/assets/83208be2-241d-458a-b055-cb9124179900" />
-- <img width="490" height="703" alt="image" src="https://github.com/user-attachments/assets/c66afead-cf97-4e2a-9c77-e22516a1722f" />
-
-
-- 介紹簡報：<a href="https://www.canva.com/design/DAGqlGZ4Jgg/_omA_8qdv0kiF3chcm0oEg/view?utm_content=DAGqlGZ4Jgg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he447c29e05">連結🔗</a>
-- 遊戲檔下載連結：https://drive.google.com/file/d/1TcWy3oN7NR6QvgDyeO-i8KfrTrgdotzc/view?usp=drivesdk
-- GitHub Repository:[YourGitHubLinkHere](https://github.com/Shan11111111/game_design)
 </ul>
 
 <br>
 <hr>
-<h4>Side Project</h4>
+<h4>個人作品 - Side Project</h4>
 <div class="project-card">
  <h3>Eat Dot – Unity 小遊戲</h3>
   <img src="吃點點起始介面.png">
@@ -374,54 +419,10 @@ HTML5、CSS3、JavaScript（原生 JS）、GitHub Pages 部署
 **專案連結**  
 [https://shan11111111.github.io/web.github.io/home.htm](https://shan11111111.github.io/web.github.io/home.htm)
 
-### LINE FRESH幸福感競賽|LineBot 開發|GCP實戰應用
-- 官方帳號連結：<a href="https://lin.ee/FpUVVoN">🔗</a>
-- 技術使用：Python, LINE api message, GCP部署(webhook), Firebase
-
-| 主題 | 內容 |
-| --- | --- |
-| 資料與狀態儲存 | 透過 Firebase Admin SDK 或 Google Cloud SDK 讀寫，儲存使用者訊息、狀態或紀錄。 |
-| 圖片存放 | 圖片存放在 **Google Cloud Storage (GCS)**。建立 GCS Bucket，命名為 `flow-onboarding-images`，並將圖片上傳到此 Bucket。 |
-| 存取權限設定 | 設定 **IAM** 或 **Bucket Policy**，讓檔案可公開讀取，供系統或前端直接存取圖片。 |
-| 實作架構概述 | LINE Bot 後端部署在 **GCP**，資料存放在 **Firebase Firestore**，圖片放在 **Google Cloud Storage (GCS)**，並設定為公開存取。 |
-| LINE 官方加入連結 | LINE 官方網站加入連結：`https://lin.ee/FpUVVoN`。 |
-| LINE Bot 後端 | 使用 **Cloud Functions** 或 **Cloud Run** 部署 Bot Server，接收 LINE Messaging API 的 Webhook，處理訊息並存取 Firestore / GCS。 |
-
-
 
 ### AI translator developer｜Chrome 擴充套件製作
 **專案敘述**
 - 串連openAI api實作英翻中的Chrome Extension小應用，完成在網頁上選取字框，翻譯成中文翻譯，讓使用者對照加速學習的學習小工具
 - <img width="453" height="229" alt="image" src="https://github.com/user-attachments/assets/5c9fb98b-a909-4c84-ae9f-076e45415c79" />
-
-
-
-### GIS系統｜五大水系導覽數位系統:以河流角度
-**專案敘述**
-- 本系統以大台北五大水系為主題，結合 Web GIS、定位服務、文化導覽、防災警示與遊戲化徽章機制。系統跳脫行政區觀點，以河流流域作為空間組織核心，讓使用者能從河流視角認識城市歷史、觀光景點與水位安全資訊。
-
-**主要特色**
-1. 以五大水系作為導覽主軸。
-2. 以動態流動線呈現河流視覺。
-3. 結合 GPS 判斷使用者接近哪條河。
-4. 點擊河流可查看歷史介紹與水位安全。
-5. 沿河導覽模式提供類似街景走路的體驗。
-6. 景點接近時會有震動框與手機震動提示。
-7. 到達景點後可取得徽章。
-8. 水位異常時系統會跳出警示。
-9. 提供圖層控制、風險熱區與古河道示意。
-10. 提供個人探索紀錄與匯出功能。
-
-**使用技術**
-HTML5、CSS3、JavaScript、Leaflet.js、GeoJSON、Geolocation API、Vibration API、SpeechSynthesis、localStorage。
-
-**展示流程**
-首頁 → 30 秒導覽 → 主地圖 → 五條河流互動 → GPS/示範位置 → 河流介紹與水位 → 沿河導覽 → 景點徽章 → 個人介面 → 水位警戒展示。
-<img width="1273" height="725" alt="image" src="https://github.com/user-attachments/assets/f60e21ba-99eb-4909-9bc2-4e3a3f2be381" />
-
- <a href="https://github.com/Shan11111111/taipei-river-system">🔗 查看該專案的 GitHub Respository</a>
-
-
-
 
 </div>
