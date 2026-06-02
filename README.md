@@ -129,7 +129,7 @@ Hi，我是陳怡珊，大學主修輔仁大學資訊管理學系，GPA 平均 4
 
 **專案簡介** 
 該專案為指導教授的計畫延伸，大三整年與醫院醫生進行合作產學討論需求，後因為系統模型處理與醫生需求深度不足，以及IRB臨床影像需求等時間影響，後期改以國高中生為主要對象，系統結合三大技術:YOLO自訓練骨骼辨識模型、AI問答:OpenAI api結合混合式RAG檢索架構(Qdrant教材庫+PubMed醫學文獻+SOAP輔醫臨床去識別化醫囑表)、3D blender模型，分為三類主要學習模式的系統，為國高中生從記憶骨頭之被動狀態轉換為主動探索骨頭，建立有證據支撐之骨骼知識，提升陪伴感與學習興趣。
-
+<br>
 **個人貢獻**  
 - **資安**：密碼以bcrpt加密與JWT登入授權。  
 - **後端**：結構化資料庫與向量資料庫設計與建置、混合式RAG邏輯設計整合與檢索設計及優化(負責Qdrant、SOAP的檢索)、影像圖片庫、註冊登入驗證登出。  
@@ -139,13 +139,13 @@ Hi，我是陳怡珊，大學主修輔仁大學資訊管理學系，GPA 平均 4
 - **效能評估**:評估YOLOv8-OBB辨識模型的效能與技術支援、評估OpenAI api結合RAG檢索之成效與降低幻覺之可行性。
 - **IRB申請**:申請大專生研究計畫與相關IRB申請。
 - **團隊角色**：在這次專案擔任組長角色，協調團隊溝通與系統發展方向。
----
+<br>
 **解決問題**
 - **降低與監控幻覺**：大三專題期間，在實作RAG中發現LLM有時檢索品質與回應內容不夠穩定，針對這個問題，我透過回答prompt約束、回答透明化：參考資料、合併相似內容與Rerank分數權重、忠誠度評估：透過將回答拆成claim評估是否與檢索資料相符，並且記錄知識缺口填補相關資料後，發現忠誠度有顯著的提升。簡言之，透過這三個方法，進行人工評估回答與忠誠度分數後，初步推導對忠誠度提升與降低幻覺有相關成效，未來希望透過實驗組與對照組比較忠誠度差距與實驗向量資料庫設計與切塊設計之於檢索效能是否會影響忠誠度與檢索品質。
----
+<br>
 **大專生國科會計劃（計劃投稿）**
 - **實作與未來發展**：我們針對這份專題申請114年大專生國科會計劃，計劃中提及期望後續發展的方向有四個：1. 輔大醫院之臨床影像資料實作足踝模型、2. RAG檢索評估、3. 融入MR概念，將系統發展成沈浸式學習體驗、4. 評估系統之於受試者學習成效，我們團隊期望透過這四個方向後續發展系統與延續系統價值！
----
+<br>
 **使用技術**
 
 | 類別       | 技術                                 |
@@ -160,10 +160,11 @@ Hi，我是陳怡珊，大學主修輔仁大學資訊管理學系，GPA 平均 4
 | 作業系統    | Windows           |
 | 部屬方式   | IIS 反向代理整合前後端服務                   |
 | 開發環境   | Virtual Studio Code                  |
-
+<br>
 <a href="https://github.com/Shan11111111/114_Project">查看GitHub⚡</a>
 
 <br>
+---
 
 ## 建言與募資資訊系統（團隊專案）
 
@@ -171,14 +172,14 @@ Hi，我是陳怡珊，大學主修輔仁大學資訊管理學系，GPA 平均 4
 **專案簡介**  
 本系統旨在提供校內師生一個線上建言及募資的平台，支援建言提交、附議、募資提案審核與管理，涵蓋多種使用者角色（學生、教師、管理者、系所處所），並整合前後端動態轉場效果，提升使用體驗。
 
-
+<br>
 **🔐 後端與資料庫設計**
 - `Session` 控制與驗證機制：70%
 - 建言提交功能後端實作：100%
 - ERD 資料庫設計與規劃：40%
 - 測試報告撰寫：20%
 - 系統登入、登出、註冊流程：後端 100%
-
+<br>
 **🛠 系統邏輯與功能實作**
 - 建言表單提交、查閱、附議後流程：100%
 - 附議達標後移轉至提案流程：100%
@@ -188,20 +189,21 @@ Hi，我是陳怡珊，大學主修輔仁大學資訊管理學系，GPA 平均 4
 - 系所人員管理模組：100%
 - 募資表單提交與瀏覽後端邏輯：100%
 - 延期申請與審核流程：100%
-
+<br>
 **💬 留言與討論區功能**
 - 建言留言區瀏覽與留言後端實作：100%
 - 募資留言區瀏覽與留言後端實作：100%
-
+<br>
 **🌐 動畫設計**
 - 登入、註冊、附議頁面轉場動畫（進度條 / 輪播 / 轉圈）：100%
 - <img width="762" height="245" alt="image" src="https://github.com/user-attachments/assets/d0ec12b5-614a-4ea8-8398-8e01aee4c8a9" />
 - <img width="1879" height="935" alt="image" src="https://github.com/user-attachments/assets/d5d05d2f-6165-4ad5-8174-7ab71bd6e3c6" />
 
-
+<br>
 **🔧系統優化與自動化測試**
 - selemium腳本撰寫測試系統
 
+<br>
 
 **📄 系統設計文件撰寫**
 - 第一章：發展背景與動機：100%
@@ -210,7 +212,7 @@ Hi，我是陳怡珊，大學主修輔仁大學資訊管理學系，GPA 平均 4
 - 第三章：資料庫設計：100%
 - 第四章：系統流程設計：40%
 
----
+<br>
 
 **🔧 使用技術與工具**
 
@@ -223,13 +225,13 @@ Hi，我是陳怡珊，大學主修輔仁大學資訊管理學系，GPA 平均 4
 | 專案管理   | Git、GitHub、文件撰寫                   |
 | 開發環境   | XAMPP (Apache + MySQL)                  |
 
----
+<br>
 
 **🔗 展示連結或 GitHub Repo**
 - GitHub Repository: [YourGitHubLinkHere](https://github.com/Shan11111111/system_project)
 - 系統設計文件連結:<a href="孵仁 Fu Jen for Good(系統分析與設計文件檔).pdf">📎</a></p>
 
----
+<br>
 
 歡迎聯絡了解更多專案細節與技術細節。
 
@@ -247,7 +249,7 @@ Hi，我是陳怡珊，大學主修輔仁大學資訊管理學系，GPA 平均 4
 
 <br>
 
-
+---
 ## SOAP 語音紀錄助手(個人專案）
 
 **專案簡介**  
@@ -263,11 +265,11 @@ Hi，我是陳怡珊，大學主修輔仁大學資訊管理學系，GPA 平均 4
 - soap小助手-個人小作品 side project demo: ［點此查看 demo 影片］（https://fjuedu-my.sharepoint.com/:v:/g/personal/412402141_m365_fju_edu_tw/IQC3vDLn_CglT6KFmw_0F0GVAT3Oa2sM-IF6CiJbh6DoPvQ?e=uNxtul）
 - 比賽整合影片連結：[點此觀看 Demo 影片](https://youtu.be/P-S-ICTIxD8)
 
----
+<br>
 
 歡迎聯繫索取更多專案細節與程式碼。
 
-
+---
 ### LINE FRESH幸福感競賽|LineBot 開發|GCP實戰應用
 - 官方帳號連結：<a href="https://lin.ee/FpUVVoN">🔗</a>
 - 技術使用：Python, LINE api message, GCP部署(webhook), Firebase
@@ -281,11 +283,11 @@ Hi，我是陳怡珊，大學主修輔仁大學資訊管理學系，GPA 平均 4
 | LINE 官方加入連結 | LINE 官方網站加入連結：`https://lin.ee/FpUVVoN`。 |
 | LINE Bot 後端 | 使用 **Cloud Functions** 或 **Cloud Run** 部署 Bot Server，接收 LINE Messaging API 的 Webhook，處理訊息並存取 Firestore / GCS。 |
 
-
+---
 ### GIS系統｜五大水系導覽數位系統:以河流角度
 **專案敘述**
 - 本系統以大台北五大水系為主題，結合 Web GIS、定位服務、文化導覽、防災警示與遊戲化徽章機制。系統跳脫行政區觀點，以河流流域作為空間組織核心，讓使用者能從河流視角認識城市歷史、觀光景點與水位安全資訊。
-
+<br>
 **主要特色**
 1. 以五大水系作為導覽主軸。
 2. 以動態流動線呈現河流視覺。
@@ -297,17 +299,17 @@ Hi，我是陳怡珊，大學主修輔仁大學資訊管理學系，GPA 平均 4
 8. 水位異常時系統會跳出警示。
 9. 提供圖層控制、風險熱區與古河道示意。
 10. 提供個人探索紀錄與匯出功能。
-
+<br>
 **使用技術**
 HTML5、CSS3、JavaScript、Leaflet.js、GeoJSON、Geolocation API、Vibration API、SpeechSynthesis、localStorage。
-
+<br>
 **展示流程**
 首頁 → 30 秒導覽 → 主地圖 → 五條河流互動 → GPS/示範位置 → 河流介紹與水位 → 沿河導覽 → 景點徽章 → 個人介面 → 水位警戒展示。
 <img width="1273" height="725" alt="image" src="https://github.com/user-attachments/assets/f60e21ba-99eb-4909-9bc2-4e3a3f2be381" />
 
  <a href="https://github.com/Shan11111111/taipei-river-system">🔗 查看該專案的 GitHub Respository</a>
 
-
+---
 
 ## 學生實習資訊管理系統 — 團隊專案（PHP / MySQL / Bootstrap / JavaScript）
 
@@ -324,7 +326,6 @@ HTML5、CSS3、JavaScript、Leaflet.js、GeoJSON、Geolocation API、Vibration A
 - **團隊角色**：在這次專案擔任組長角色，負責專案經理與產品經理的職責
 <br>
 
-
 **使用技術**
 
 | 類別       | 技術                                 |
@@ -339,8 +340,8 @@ HTML5、CSS3、JavaScript、Leaflet.js、GeoJSON、Geolocation API、Vibration A
 <a href="https://drive.google.com/file/d/1jug7MXeWjATfMo42YbmA3tWiOkmBhj5x/view?usp=sharing">實習系統介紹影片</a>
 <a href="https://github.com/Shan11111111/Website_assignment/blob/main/README.md">查看GitHub⚡</a>
 
-  <br>
-
+<br>
+---
 
 ## PostgreSQL 題庫資料庫設計 — 個人專案
 
@@ -348,21 +349,21 @@ HTML5、CSS3、JavaScript、Leaflet.js、GeoJSON、Geolocation API、Vibration A
   
 **專案背景**  
 資料庫管理課程中學習 MySQL 後，我自主學習 PostgreSQL 並設計一個專門用於題庫的資料庫圖。靈感來自我使用線上題庫系統時，希望能根據題目難易度分類，並引入寫題目或出題的獎勵機制，讓題庫管理更有效率與方便。
-
+<br>
 **專案內容**  
 - 設計六個資料表，包含題目、難度、獎勵等欄位。  
 - 完成商業規則定義，並實現三種資料表關係：一對一、一對多、多對多。  
 - 實作十種複雜查詢以滿足不同的資料檢索需求。
-
+<br>
 **使用技術**  
 PostgreSQL
 
----
+<br>
 
 如需詳細 ER 圖或 SQL 查詢範例，可另行提供。
 
 <br>
-
+---
 
 ## SDGs責任消費手機介面設計 — 團隊課堂作業
 
@@ -371,22 +372,22 @@ PostgreSQL
     
 **專案介紹**  
 本專案為五人團隊合作課堂作業，利用 Figma 設計符合聯合國永續發展目標（SDGs）第十二項「責任消費與生產」的手機應用介面。目標是透過設計提升使用者在消費過程中的環保意識及責任感。
-
+<br>
 **我的工作內容**  
 - 設計使用者登入、登出及註冊介面  
 - 設計通知設定中藍點與白點的切換介面，以提升使用者互動體驗  
 - 設計管理者審核貼文相關的管理介面，強化內容審核流程
 - 在團隊中擔任組長的角色，確認進度如期完成與內容適配評估
-
+<br>
 **使用工具**  
 Figma, Galio AI（提供設計靈感）
 
----
+<br>
 
 如需介面設計原型與詳細視覺稿，歡迎聯繫索取。
   
 <br>
-
+---
 
 </ul>
 
@@ -402,25 +403,26 @@ Figma, Galio AI（提供設計靈感）
 <br>
 <br>
 <div class="project-card">
-  
+---
 ### 朝日朝食｜冰品網站
 
   ![image](https://github.com/user-attachments/assets/c69be9c7-fad8-4d7d-becb-cdebe538c58b)
 **專案描述**  
 開發一個基於 GitHub Pages 的靜態網站，展示多款天然水果製作的夏季冰品，並設計購物待買清單功能，提升使用者互動體驗。
-
+<br>
 **技術使用**  
 HTML5、CSS3、JavaScript（原生 JS）、GitHub Pages 部署
-
+<br>
 **專案特色**  
 - 響應式設計，支援多裝置瀏覽  
 - 實作待買清單動態更新與價格計算  
 - 簡潔清新 UI，注重圖片展示與使用者體驗
+<br>
 
 **專案連結**  
 [https://shan11111111.github.io/web.github.io/home.htm](https://shan11111111.github.io/web.github.io/home.htm)
 
-
+---
 ### AI translator developer｜Chrome 擴充套件製作
 <img width="453" height="229" alt="image" src="https://github.com/user-attachments/assets/5c9fb98b-a909-4c84-ae9f-076e45415c79" />
 **專案敘述**
