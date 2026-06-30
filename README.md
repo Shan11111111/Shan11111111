@@ -93,6 +93,7 @@ Hi，我是陳怡珊，大學主修輔仁大學資訊管理學系，GPA 平均 4
 - 🧠 參與 AIOT、ESG、循環經濟等專題研討會
 - 📃 論文投稿：參與 2025 IMP 暨育秀AI數位科技研創論文獎並獲接受與收錄（以專題為基礎所撰寫之論文：結合大語言模型之醫療影像辨識模型與系統開發-以骨科為例）
 - 📝 2025年 SOS! 暑期線上學院 通識課程心得徵稿活動 特別獎
+- 💻LINE FRESH幸福感競賽 複賽晉級
 - 🏥 參與IRB倫理課程 獲得8小時修習證明
 - 📑 115學年度國科會大專生研究計劃 通過 （研究名稱：整合深度學習與生成式人工智慧之骨科 X 光影像辨識與教學支援系統之研究/A Study on an Orthopedic X-ray Image Recognition and Educational Support System Integrating Deep Learning and Generative Artificial Intelligence）
 
